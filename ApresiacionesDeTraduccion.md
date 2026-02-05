@@ -28,6 +28,14 @@ Este bloque resume las decisiones que rigen todo el proceso para mantener cohere
 - **[4.1]** *τῆς μὲν πράξεως ὁ μῦθος ἡ μίμησις* → “la fábula es la representación de la acción”:  
   se reorganiza el orden para español sin alterar la relación sujeto‑predicado.  
 
+
++**Nota aclaratoria sobre [4.4]:**
++- No se trata de una suma de partes, sino de **tres clasificaciones distintas** de la mímesis:
++  - **Con qué se imita** (medios) → dos partes.
++  - **Cómo se imita** (modo) → una parte.
++  - **Qué se imita** (objetos) → tres partes.
++  Esta redacción evita la confusión de leer “dos” y luego “tres” como contradicción.
++
 **Criterio general:**
 - Se privilegia una traducción **comprensible y actual**, pero **sin sacrificar precisión morfológica**.
 

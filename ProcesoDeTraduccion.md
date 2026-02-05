@@ -161,7 +161,7 @@ Este documento detalla el proceso filológico intermedio entre el texto griego o
 *   **Acusativo objeto:** *Hà* -> "los objetos que".
 
 **Traducción Final:**
-"Los medios con los que imitan son dos partes; el modo como imitan, una; los objetos que imitan, tres; y aparte de estas, ninguna."
+"En cuanto a los medios con los que imitan, son dos partes; en cuanto al modo como imitan, una; en cuanto a los objetos que imitan, tres; y aparte de estas, ninguna."
 
 ---
 

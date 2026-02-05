@@ -42,7 +42,7 @@ Es necesidad, pues, que las partes de toda tragedia sean seis, según las cuales
 
 Οἷς μὲν γὰρ μιμοῦνται, δύο μέρη ἐστίν, ὡς δὲ μιμοῦνται, ἕν, ἃ δὲ μιμοῦνται, τρία, καὶ παρὰ ταῦτα οὐδέν.
 
-Los medios con los que imitan son dos partes; el modo como imitan, una; los objetos que imitan, tres; y aparte de estas, ninguna.
+En cuanto a los medios con los que imitan, son dos partes; en cuanto al modo como imitan, una; en cuanto a los objetos que imitan, tres; y aparte de estas, ninguna.
 
 ## Parrafo 5
 

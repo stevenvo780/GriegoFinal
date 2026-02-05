@@ -14,7 +14,7 @@ pues llamo fábula a esto: la composición de los hechos; y \[llamo\] caracteres
 
 Es necesidad, pues, que las partes de toda tragedia sean seis, según las cuales la tragedia es de tal cualidad: y estas son la fábula, los caracteres, la elocución, el pensamiento, el espectáculo y la melopeya.
 
-Los medios con los que imitan son dos partes; el modo como imitan, una; los objetos que imitan, tres; y aparte de estas, ninguna.
+En cuanto a los medios con los que imitan, son dos partes; en cuanto al modo como imitan, una; en cuanto a los objetos que imitan, tres; y aparte de estas, ninguna.
 
 De estas especies, pues, se han servido no pocos de ellos, por así decirlo; pues toda \[obra\] tiene espectáculo, carácter, fábula, elocución, canto y pensamiento de igual modo.
 
