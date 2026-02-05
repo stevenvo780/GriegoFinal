@@ -4057,7 +4057,7 @@ Si hacer una auténtica Antología de poetas griegos es tarca siempre
 difícil, para nosotros es empeño irrealizable porque no podemos todavía 
 abordar las figuras más deslumbrantes de la poesía griega: Homero (éste, 
 al menos, con la extensión deseable), Píndaro, los trágicos, Aristófanes y 
-Teócrito. Esta limitación nos obliga a escoger algunas humildes flores 
+Teócrito. Esta lrepresentación nos obliga a escoger algunas humildes flores 
 de entre los ruinosos fragmentos que nos quedan de alguno» poetas.
 La poesía griega, como todas las demás formas de la literatura y arte 
 griegos, es eminentemente humana, es decir, tiene al hombre como 

@@ -1,496 +1,238 @@
-# Análisis Morfológico Consolidado: Poética Cap. 6
-## Entradas Únicas (Sin Redundancias)
+# Análisis Morfológico Consolidado: Poética de Aristóteles (Capítulo 6)
+
+Este documento es la fuente única para la consulta de la morfología del Capítulo 6. Las palabras están organizadas por categorías gramaticales para facilitar la búsqueda y el estudio detallado.
 
 ---
 
-## Artículos Definidos
+## 1. Artículos (ὁ, ἡ, τό)
+*Referencia: Diapositiva 2 del curso.*
 
-### ὁ, ἡ, τό (ho, hē, tó)
-*   **Categoría:** Artículo definido
-*   **Formas:** Nom/Gen/Dat/Ac Sg/Pl en Masc/Fem/Neut
-*   **Declinación:** Artículo (irregular)
-*   **Referencia:** Ver Diapositiva 2
-*   **Traducción:** el, la, lo, los, las
-
----
-
-## Preposiciones
-
-### περί (perí)
-*   **Categoría:** Preposición
-*   **Análisis:** Rige Genitivo (tema), Acusativo (alrededor)
-*   **Traducción:** acerca de, sobre, en torno a, respecto a, concerniente a
-
-### ἐν (en)
-*   **Categoría:** Preposición
-*   **Análisis:** Rige Dativo
-*   **Traducción:** en, dentro de, entre, durante, por medio de
-
-### ἐκ / ἐξ (ek / ex)
-*   **Categoría:** Preposición
-*   **Análisis:** Rige Genitivo
-*   **Traducción:** de, desde, fuera de, por causa de, a partir de
-
-### διά (diá)
-*   **Categoría:** Preposición
-*   **Análisis:** Gen (a través), Ac (a causa de)
-*   **Traducción:** mediante, a través de, por medio de, a causa de, gracias a
-
-### ὑπό (hypó)
-*   **Categoría:** Preposición
-*   **Análisis:** Gen (agente), Ac (debajo)
-*   **Traducción:** por (agente), bajo, debajo de, al pie de, a manos de
-
-### κατά (katá)
-*   **Categoría:** Preposición
-*   **Análisis:** Gen (contra), Ac (según)
-*   **Traducción:** según, conforme a, de acuerdo con, contra, hacia abajo, a lo largo de
-
-### παρά (pará)
-*   **Categoría:** Preposición
-*   **Análisis:** Gen (de parte de), Ac (junto a)
-*   **Traducción:** aparte de, junto a, de parte de, al lado de, en comparación con, más allá de
-
-### πρός (prós)
-*   **Categoría:** Preposición
-*   **Análisis:** Ac (hacia), Dat (junto a)
-*   **Traducción:** hacia, frente a, ante, en relación con, respecto a, además de
+| Forma | Caso | Número | Género | Traducción |
+| :--- | :--- | :--- | :--- | :--- |
+| **ὁ** | Nominativo | Singular | Masculino | el |
+| **ἡ** | Nominativo | Singular | Femenino | la |
+| **τὸ** | Nom. / Acus. | Singular | Neutro | lo / el |
+| **τοῦ** | Genitivo | Singular | Masc. / Neut. | del |
+| **τῆς** | Genitivo | Singular | Femenino | de la |
+| **τῷ** | Dativo | Singular | Masc. / Neut. | al / para el |
+| **τῇ** | Dativo | Singular | Femenino | a la / para la |
+| **τὸν** | Acusativo | Singular | Masculino | al / el |
+| **την** | Acusativo | Singular | Femenino | a la / la |
+| **οἱ** | Nominativo | Plural | Masculino | los |
+| **αἱ** | Nominativo | Plural | Femenino | las |
+| **τὰ** | Nom. / Acus. | Plural | Neutro | los / las |
+| **τῶν** | Genitivo | Plural | M. / F. / N. | de los / de las |
+| **τοῖς** | Dativo | Plural | Masc. / Neut. | a los / en los |
+| **ταῖς** | Dativo | Plural | Femenino | a las / en las |
+| **τοὺς** | Acusativo | Plural | Masculino | a los |
+| **τὰς** | Acusativo | Plural | Femenino | a las |
 
 ---
 
-## Partículas y Conjunciones
+## 2. Sustantivos y Adjetivos (Por Declinación)
 
-### μέν (mén)
-*   **Categoría:** Partícula correlativa
-*   **Análisis:** Marca contraste (con δέ)
-*   **Traducción:** por una parte, ciertamente, en efecto, así pues, (a menudo sin traducción directa)
+### Primera Declinación (Temas en -α / -η)
+*Referencia: Diapositiva 3.*
 
-### δέ (dé)
-*   **Categoría:** Partícula conectiva
-*   **Análisis:** Conecta, contrasta
-*   **Traducción:** y, pero, mas, sin embargo, por otra parte, (a menudo omitida)
+| Palabra | Lema | Análisis | Traducción |
+| :--- | :--- | :--- | :--- |
+| **ἀνάγκη** | ἀνάγκη | Nom. Sg. Fem. (-η) | necesidad |
+| **ἀνάγκης** | ἀνάγκη | Gen. Sg. Fem. (-η) | de necesidad |
+| **ἀπαγγελίας** | ἀπαγγελία | Gen. Sg. Fem. (-α pura) | de relato / narración |
+| **ἀπεργασίαν** | ἀπεργασία | Acus. Sg. Fem. (-α pura) | elaboración / acabado |
+| **ἁρμονίαν** | ἁρμονία | Acus. Sg. Fem. (-α pura) | armonía |
+| **γνώμην** | γνώμη | Acus. Sg. Fem. (-η) | opinión / juicio |
+| **διάνοια** | διάνοια | Nom. Sg. Fem. (-α pura) | pensamiento |
+| **διάνοιαν** | διάνοια | Acus. Sg. Fem. (-α pura) | pensamiento |
+| **δόξα** | δόξα | Nom. Sg. Fem. (-α mixta) | opinión / gloria |
+| **ἑρμηνείαν** | ἑρμηνεία | Acus. Sg. Fem. (-α pura) | expresión |
+| **εὐδαιμονία** | εὐδαιμονία | Nom. Sg. Fem. (-α pura) | felicidad |
+| **κακοδαιμονία** | κακοδαιμονία | Nom. Sg. Fem. (-α pura) | infelicidad |
+| **κωμῳδίας** | κωμῳδία | Gen. Sg. Fem. (-α pura) | de la comedia |
+| **μελοποιία** | μελοποιία | Nom. Sg. Fem. (-α pura) | melopeya |
+| **μελοποιίαν** | μελοποιία | Acus. Sg. Fem. (-α pura) | melopeya |
+| **μιμητικῆς** | μιμητική | Gen. Sg. Fem. (-η) | de la imitativa |
+| **ὀνομασίας** | ὀνομασία | Gen. Sg. Fem. (-α pura) | denominación |
+| **οὐσίας** | οὐσία | Gen. Sg. Fem. (-α pura) | de la esencia |
+| **ποιηταὶ** | ποιητής | Nom. Plural Masc. (-ης) | poetas |
+| **ποιητῶν** | ποιητής | Gen. Plural Masc. (-ης) | de los poetas |
+| **ποιητικῆς** | ποιητική | Gen. Sg. Fem. (-η) | de la poética |
+| **σπουδαίας** | σπουδαῖος | Gen. Sg. Fem. (Adj 2-1-2) | noble / seria |
+| **τελείας** | τέλειος | Gen. Sg. Fem. (Adj 2-1-2) | completa / perfecta |
+| **τέχνη** | τέχνη | Nom. Sg. Fem. (-η) | técnica / arte |
+| **τραγῳδία** | τραγῳδία | Nom. Sg. Fem. (-α pura) | tragedia |
+| **τραγῳδίας** | τραγῳδία | Gen. Sg. Fem. (-α pura) | de la tragedia |
+| **ὑποκριτῶν** | ὑποκριτής | Gen. Plural Masc. (-ης) | de los actores |
+| **φανερὰν** | φανερός | Acus. Sg. Fem. (Adj 2-1-2) | manifiesta |
 
-### οὖν (oûn)
-*   **Categoría:** Conjunción ilativa
-*   **Traducción:** pues, por tanto, así pues, en consecuencia, por consiguiente, entonces
+### Segunda Declinación (Temas en -ο)
+*Referencia: Diapositiva 4.*
 
-### γάρ (gár)
-*   **Categoría:** Conjunción causal
-*   **Traducción:** pues, porque, ya que, en efecto, puesto que, dado que
+| Palabra | Lema | Análisis | Traducción |
+| :--- | :--- | :--- | :--- |
+| **ἀνθρώπων** | ἄνθρωπος | Gen. Plural Masc. | de hombres |
+| **βίου** | βίος | Gen. Sg. Masculino | de vida |
+| **ἑξαμέτροις** | ἑξάμετρος | Dat. Plural Masc. (Adj) | hexámetros |
+| **ἐλέου** | ἔλεος | Gen. Sg. Masc. / Neut. | de compasión |
+| **ἑκάστῳ** | ἕκαστος | Dat. Sg. Neutro (Adj) | cada uno |
+| **ἐμμέτρων** | ἔμμετρος | Gen. Plural Neutro (Adj) | versos |
+| **ἐναντίον** | ἐναντίος | Nom. / Acus. Sg. Neutro (Adj) | lo contrario |
+| **ἔργον** | ἔργον | Nom. / Acus. Sg. Neutro | función / obra |
+| **καλλίστοις** | κάλλος | Dat. Plural Neutro (Adj Superl.) | bellísimos |
+| **κόσμος** | κόσμος | Nom. Sg. Masculino | adorno / ornato |
+| **λόγον** | λόγος | Acus. Sg. Masculino | lenguaje / discurso |
+| **λόγῳ** | λόγος | Dat. Sg. Masculino | lenguaje / discurso |
+| **μέτρων** | μέτρον | Gen. Plural Neutro | metros / versos |
+| **μόριον** | μόριον | Nom. / Acus. Sg. Neutro | parte / elemento |
+| **μορίοις** | μόριον | Dat. Plural Neutro | partes / elementos |
+| **μῦθος** | μῦθος | Nom. Sg. Masculino | mito / trama |
+| **μῦθον** | μῦθος | Acus. Sg. Masculino | mito / trama |
+| **μύθου** | μῦθος | Gen. Sg. Masculino | del mito |
+| **νέων** | νέος | Gen. Plural Masc. (Adj) | jóvenes |
+| **οἰκεῖον** | οἰκεῖος | Nom. / Acus. Sg. Neutro (Adj) | propio / inherente |
+| **ὅρον** | ὅρος | Acus. Sg. Masculino | definición / límite |
+| **ῥυθμὸν** | ῥυθμός | Acus. Sg. Masculino | ritmo |
+| **σκευοποιοῦ** | σκευοποιός | Gen. Sg. Masculino | del escenógrafo |
+| **φαρμάκοις** | φάρμακον | Dat. Plural Neutro | colores |
+| **φόβου** | φόβος | Gen. Sg. Masculino | del temor |
+| **ψυχαγωγικὸν** | ψυχαγωγικός | Nom. Sg. Neutro (Adj) | fascinante |
 
-### καί (kaí)
-*   **Categoría:** Conjunción copulativa
-*   **Traducción:** y, también, incluso, aun, tanto...como, además
+### Tercera Declinación (Atemática)
+*Referencia: Diapositivas 5-21.*
 
-### τε (te)
-*   **Categoría:** Partícula enclítica
-*   **Traducción:** y (correlativa), tanto...como, así como, a la vez que
-
-### ἀλλά (allá)
-*   **Categoría:** Conjunción adversativa
-*   **Traducción:** sino, pero, sin embargo, mas, al contrario, en cambio
-
-### ἤ (ḗ)
-*   **Categoría:** Conjunción disyuntiva
-*   **Traducción:** o, o bien, ya sea...ya sea, que, (comparativo) que
-
-### ὡς (hōs)
-*   **Categoría:** Adv/Conj relativo
-*   **Traducción:** como, que, de tal modo que, así como, cuando, puesto que, para que
-
-### ὅτι (hóti)
-*   **Categoría:** Conjunción
-*   **Traducción:** que (completivo), porque, el hecho de que, ya que, puesto que
-
-### ἵνα (hína)
-*   **Categoría:** Conjunción final
-*   **Traducción:** para que, a fin de que, de modo que, donde
-
----
-
-## Pronombres
-
-### αὐτός (autós)
-*   **Categoría:** Pronombre enfático/personal
-*   **Declinación:** 1.ª/2.ª
-*   **Formas:** αὐτῆς, αὐτήν, αὐτοῦ, αὐτῶν
-*   **Referencia:** Ver Diapositiva 2
-*   **Traducción:** él mismo, ella misma, el propio, en persona, él/ella/ello (3.ª persona)
-
-### οὗτος (hoûtos)
-*   **Categoría:** Pronombre demostrativo
-*   **Declinación:** 1.ª/2.ª irregular
-*   **Formas:** τοῦτο, ταῦτα, τούτων, τούτοις
-*   **Traducción:** este, esta, esto, tal, dicho, el siguiente, el mencionado
-
-### ὅς, ἥ, ὅ (hós, hḗ, hó)
-*   **Categoría:** Pronombre relativo
-*   **Declinación:** 1.ª/2.ª
-*   **Formas:** ὅν, οὓς, ἅ, ὅσοις
-*   **Traducción:** que, el cual, la cual, lo cual, quien, cuyo
-
-### τις, τι (tis, ti)
-*   **Categoría:** Pronombre indefinido
-*   **Declinación:** 3.ª irregular
-*   **Formas:** τινῶν, τινας, τινες
-*   **Referencia:** Ver Diapositiva 14
-*   **Traducción:** alguno, cierto, uno, alguien, algo, cualquiera, cierto tipo de
-
-### ποῖος (poîos)
-*   **Categoría:** Adj/Pron indefinido
-*   **Declinación:** 2.ª/1.ª
-*   **Formas:** ποιούς, ποιάς, ποιά
-*   **Traducción:** de qué clase, de cierta cualidad, de tal tipo, de qué naturaleza, cuál
-
----
-
-## Verbo εἰμί (eimí) - Ser
-
-*   **Categoría:** Verbo atemático irregular
-*   **Referencia:** Ver Diapositiva 22
-
-### Formas encontradas:
-| Forma | Análisis | Traducción |
-|-------|----------|------------|
-| ἐστί(ν) | 3.ª Sg. Pres. Ind. | es, hay |
-| εἰσί(ν) | 3.ª Pl. Pres. Ind. | son |
-| εἴη | 3.ª Sg. Pres. Opt. | sería |
-| εἶναι | Infinitivo Pres. | ser |
-
----
-
-## Verbo φημί (phēmí) - Decir
-
-*   **Categoría:** Verbo atemático irregular
-*   **Referencia:** Ver Diapositiva 22
-
-### Formas encontradas:
-| Forma | Análisis | Traducción |
-|-------|----------|------------|
-| φαμέν | 1.ª Pl. Pres. Ind. | decimos |
+| Palabra | Lema | Análisis | Traducción |
+| :--- | :--- | :--- | :--- |
+| **ἀγῶνος** | ἀγών | Gen. Sg. Masc. (Nasal) | certamen / lucha |
+| **ἀήθεις** | ἀήθης | Nom. Plural Fem. (Silbante Adj) | sin carácter |
+| **ἀτεχνότατον** | ἄτεχνος | Nom. Sg. Neutro (Adj Superl.) | menos técnico |
+| **εἴδεσι** | εἶδος | Dat. Plural Neutro (Silbante) | tipos / formas |
+| **εἰδῶν** | εἶδος | Gen. Plural Neutro (Silbante) | tipos / formas |
+| **εἰκόνα** | εἰκών | Acus. Sg. Fem. (Nasal) | imagen |
+| **εὐδαίμονες** | εὐδαίμων | Nom. Plural Masc. (Nasal Adj) | felices |
+| **ἥκιστα** | ἥκιστος | Adverbio (Superlativo) | lo menos |
+| **ἦθος** | ἦθος | Nom. / Acus. Sg. Neutro (Silbante) | carácter |
+| **ἤθη** | ἦθος | Nom. / Acus. Plural Neutro | caracteres |
+| **ἠθῶν** | ἦθος | Gen. Plural Neutro | caracteres |
+| **ἡδυσμάτων** | ἥδυσμα | Gen. Plural Neutro (Dental) | de los aderezos |
+| **κάθαρσιν** | κάθαρσις | Acus. Sg. Fem. (Vocal variable) | catarsis |
+| **κυριωτέρα** | κύριος | Nom. Sg. Fem. (Adj Comp.) | más soberana |
+| **μέγεθος** | μέγεθος | Acus. Sg. Neutro (Silbante) | magnitud |
+| **μέλος** | μέλος | Nom. / Acus. Sg. Neutro (Silbante) | canto / melodía |
+| **μέλους** | μέλος | Gen. Sg. Neutro | del canto |
+| **μέρη** | μέρος | Nom. / Acus. Plural Neutro | partes |
+| **μίμησις** | μίμησις | Nom. Sg. Fem. (Vocal variable) | representación |
+| **μίμησιν** | μίμησις | Acus. Sg. Fem. (Vocal variable) | representación |
+| **ὄψις** | ὄψις | Nom. Sg. Fem. (Vocal variable) | espectáculo |
+| **ὄψεως** | ὄψις | Gen. Sg. Fem. | del espectáculo |
+| **παθημάτων** | πάθημα | Gen. Plural Neutro (Dental) | de las afecciones |
+| **πλείστων** | πολύς | Gen. Plural Masc. (Adj Superl.) | los más numerosos |
+| **ποιότης** | ποιότης | Nom. Sg. Fem. (Dental) | cualidad |
+| **πρᾶξις** | πρᾶξις | Nom. Sg. Fem. (Vocal variable) | acción |
+| **πράξεως** | πρᾶξις | Gen. Sg. Fem. | de una acción |
+| **πράξεις** | πρᾶξις | Acus. Plural Fem. | acciones |
+| **πραγμάτων** | πρᾶγμα | Gen. Plural Neutro (Dental) | de los hechos |
+| **προαίρεσιν** | προαίρεσις | Acus. Sg. Fem. (Vocal variable) | elección |
+| **σύστασις** | σύστασις | Nom. Sg. Fem. (Vocal variable) | estructuración |
+| **σύνθεσιν** | σύνθεσις | Acus. Sg. Fem. (Vocal variable) | composición |
+| **τέλος** | τέλος | Nom. Sg. Neutro (Silbante) | fin / finalidad |
 
 ---
 
-## Verbos en -ω (Temáticos)
+## 3. Verbos, Participios e Infinitivos
+*Referencia: Diapositivas 22-30.*
 
-### λέγω (légō)
-*   **Categoría:** Verbo temático
-*   **Conjugación:** -ω
-*   **Referencia:** Ver Diapositiva 23
-*   **Formas:** λέγω, λέγωμεν, λέγοντες
-*   **Traducción:** digo, llamo, hablo, nombro, declaro, designo, menciono, afirmo
+### Verbos (Formas Personales)
+| Forma | Lema | Análisis | Traducción |
+| :--- | :--- | :--- | :--- |
+| **ἀποδεικνύασιν** | ἀποδείκνυμι | 3.ª Pl. Pres. Ind. Activo | demuestran |
+| **ἀποφαίνονται** | ἀποφαίνω | 3.ª Pl. Pres. Ind. Medio | manifiestan |
+| **δηλοῖ** | δηλόω | 3.ª Sg. Pres. Ind. Activo (Contr.) | manifiesta |
+| **εἰσὶν** | εἰμί | 3.ª Pl. Pres. Ind. Activo | son |
+| **εἴη** | εἰμί | 3.ª Sg. Pres. Optativo Act. | sería |
+| **ἐναλείψειε** | ἐναλείφω | 3.ª Sg. Aoristo Optativo Act. | untara |
+| **ἐροῦμεν** | λέγω | 1.ª Pl. Futuro Ind. Activo | diremos |
+| **ἔστιν** | εἰμί | 3.ª Sg. Pres. Ind. Activo | es |
+| **εὐφράνειεν** | εὐφραίνω | 3.ª Sg. Aoristo Optativo Act. | complacería |
+| **ἔχει** | ἔχω | 3.ª Sg. Pres. Ind. Activo | tiene |
+| **λέγω** | λέγω | 1.ª Sg. Pres. Ind. Activo | digo |
+| **λέγωμεν** | λέγω | 1.ª Pl. Pres. Subj. Activo | hablemos |
+| **μιμοῦνται** | μιμέομαι | 3.ª Pl. Pres. Ind. Medio | imitan |
+| **ποιοῦνται** | ποιέω | 3.ª Pl. Pres. Ind. Medio | realizan |
+| **πράττεται** | πράττω | 3.ª Sg. Pres. Ind. Medio-Pas. | se actúa |
+| **πράττουσιν** | πράττω | 3.ª Pl. Pres. Ind. Activo | actúan |
+| **προαιρεῖται** | προαιρέω | 3.ª Sg. Pres. Ind. Medio | elige |
+| **τυγχάνουσι** | τυγχάνω | 3.ª Pl. Pres. Ind. Activo | aciertan |
+| **φαμεν** | φημί | 1.ª Pl. Pres. Ind. Activo | decimos |
+| **φεύγει** | φεύγω | 3.ª Sg. Pres. Ind. Activo | evita |
 
-### ἔχω (échō)
-*   **Categoría:** Verbo temático
-*   **Formas:** ἔχει, ἐχούσης, ἔχοντα
-*   **Traducción:** tiene, posee, sostiene, mantiene, conserva, guarda, sujeta
+### Participios
+| Forma | Lema | Análisis | Traducción |
+| :--- | :--- | :--- | :--- |
+| **ἀναλαβόντες** | ἀναλαμβάνω | Nom. Pl. Masc. Aoristo Act. | habiendo retomado |
+| **γινόμενον** | γίγνομαι | Acus. Sg. Masc. Pres. Medio | resultante |
+| **δρώντων** | δράω | Gen. Pl. Masc. Pres. Activo | de agentes / actuantes |
+| **εἰρημένων** | λέγω | Gen. Pl. Neutro Perfecto Pas. | de lo dicho |
+| **ἐχούσης** | ἔχω | Gen. Sg. Fem. Pres. Activo | que tiene |
+| **ἡδυσμένῳ** | ἡδύνω | Dat. Sg. Masc. Perf. Pasivo | sazonado |
+| **ἡδυσμένον** | ἡδύνω | Acus. Sg. Masc. Perf. Pas. | sazonado |
+| **λέγοντες** | λέγω | Nom. Pl. Masc. Pres. Activo | diciendo |
+| **λευκογραφήσας** | λευκογραφέω | Nom. Sg. Masc. Aoristo Act. | habiendo dibujado |
+| **περαίνουσα** | περαίνω | Nom. Sg. Fem. Pres. Activo | operando |
+| **πράττοντες** | πράττω | Nom. Pl. Masc. Pres. Activo | actuando |
 
-### ποιέω (poiéō) - Contracto
-*   **Categoría:** Verbo contracto (-έω)
-*   **Referencia:** Ver Diapositiva 23
-*   **Formas:** ποιοῦνται, ποιήσει
-*   **Traducción:** hacen, realizan, producen, fabrican, crean, componen, ejecutan
-
-### μιμέομαι (miméomai)
-*   **Categoría:** Verbo medio deponente
-*   **Formas:** μιμοῦνται, μιμήσωνται
-*   **Traducción:** imitan, representan, reproducen, copian, emulan, simulan
-
-### γίγνομαι (gígnomai)
-*   **Categoría:** Verbo deponente
-*   **Formas:** γινόμενον, γένοιτο
-*   **Traducción:** llegar a ser, surgir, nacer, suceder, ocurrir, resultar, acontecer, devenir
-
-### πράττω (práttō)
-*   **Categoría:** Verbo gutural (-ττω)
-*   **Referencia:** Ver Diapositiva 23
-*   **Formas:** πράττοντες, πράττεται, πραττόντων
-*   **Traducción:** actuar, hacer, obrar, realizar, ejecutar, practicar, emprender
-
-### τυγχάνω / ἀποτυγχάνω
-*   **Categoría:** Verbos temáticos
-*   **Formas:** τυγχάνουσι, ἀποτυγχάνουσι
-*   **Traducción:** tienen éxito, alcanzan, logran, obtienen / fracasan, yerran, fallan, malogran
-
-### περαίνω (peraínō)
-*   **Categoría:** Verbo nasal
-*   **Formas:** περαίνουσα, περαίνεσθαι
-*   **Traducción:** llevar a cabo, completar, terminar, concluir, realizar, ejecutar, consumar
-
-### ἀποδείκνυμι (apodeíknymi)
-*   **Categoría:** Verbo atemático (-μι)
-*   **Formas:** ἀποδεικνύασιν
-*   **Traducción:** demuestran, prueban, muestran, evidencian, manifiestan, ponen de manifiesto
+### Infinitivos
+| Forma | Lema | Análisis | Traducción |
+| :--- | :--- | :--- | :--- |
+| **εἶναι** | εἰμί | Pres. Activo | ser |
+| **εἰπεῖν** | λέγω | Aoristo Activo | decir |
+| **περαίνεσθαι** | περαίνω | Pres. Medio-Pasivo | realizarse |
 
 ---
 
-## Sustantivos 1.ª Declinación
+## 4. Pronombres y Partículas
 
-### τραγῳδία (tragōidía)
-*   **Declinación:** 1.ª (Fem. -α pura)
-*   **Tema:** -α
-*   **Referencia:** Ver Diapositiva 3
-*   **Formas:** τραγῳδία, τραγῳδίας
-*   **Traducción:** tragedia, drama trágico, representación trágica, género trágico
+### Pronombres
+| Forma | Lema | Análisis | Traducción |
+| :--- | :--- | :--- | :--- |
+| **αὐτῆς** | αὐτός | Gen. Sg. Femenino | de ella |
+| **αὐτὴν** | αὐτός | Acus. Sg. Femenino | ella misma |
+| **αὐτῶν** | αὐτός | Gen. Plural Masculino | de ellos |
+| **τούτοις** | οὗτος | Dat. Plural Neutro | en estos |
+| **τούτων** | οὗτος | Gen. Plural Neutro | de estos |
+| **ταῦτα** | οὗτος | Nom. / Acus. Pl. Neutro | estas cosas |
+| **τι** | τις | Nom. / Acus. Sg. Neutro | algo / alguna |
+| **τινας** | τις | Acus. Pl. Masc. / Fem. | algunos |
+| **τινων** | τις | Gen. Plural Masculino | de ciertos |
+| **ὃ** | ὅς | Nom. / Acus. Sg. Neutro | lo cual |
+| **οὓς** | ὅς | Acus. Plural Masculino | a los cuales |
 
-### κωμῳδία (kōmōidía)
-*   **Declinación:** 1.ª (Fem. -α)
-*   **Traducción:** comedia, drama cómico, representación cómica, género cómico
-
-### μελοποιία (melopoiía)
-*   **Declinación:** 1.ª (Fem. -α)
-*   **Traducción:** melopeya, composición de cantos, música, melodía, canto, arte del canto
-
-### ἀνάγκη (anánkē)
-*   **Declinación:** 1.ª (Fem. -η)
-*   **Referencia:** Ver Diapositiva 3
-*   **Traducción:** necesidad, forzosidad, coacción, obligación, inevitabilidad, lo inevitable
-
-### διάνοια (diánoia)
-*   **Declinación:** 1.ª (Fem. -α)
-*   **Traducción:** pensamiento, reflexión, razonamiento, intención, propósito, inteligencia, noción
-
-### ἁρμονία (harmonía)
-*   **Declinación:** 1.ª (Fem. -α)
-*   **Traducción:** armonía, acorde, proporción, consonancia, concordia, ajuste
-
-### οὐσία (ousía)
-*   **Declinación:** 1.ª (Fem. -α)
-*   **Traducción:** esencia, ser, sustancia, naturaleza, entidad, realidad, existencia
-
-### γνώμη (gnṓmē)
-*   **Declinación:** 1.ª (Fem. -η)
-*   **Traducción:** opinión, parecer, juicio, sentencia, máxima, pensamiento, razonamiento
-
----
-
-## Sustantivos 2.ª Declinación
-
-### μῦθος (mŷthos)
-*   **Declinación:** 2.ª (Masc. -ος)
-*   **Tema:** -o
-*   **Referencia:** Ver Diapositiva 4
-*   **Traducción:** mito, trama, argumento, fábula, relato, narración, historia, cuento
-
-### λόγος (lógos)
-*   **Declinación:** 2.ª (Masc. -ος)
-*   **Traducción:** palabra, lenguaje, discurso, razón, argumento, cuenta, relato, expresión
-
-### κόσμος (kósmos)
-*   **Declinación:** 2.ª (Masc. -ος)
-*   **Traducción:** orden, decoración, ornamento, adorno, mundo, universo, disposición
-
-### ὅρος (hóros)
-*   **Declinación:** 2.ª (Masc. -ος)
-*   **Traducción:** definición, límite, término, frontera, marca, mojón, delimitación
-
-### ῥυθμός (rhythmós)
-*   **Declinación:** 2.ª (Masc. -ος)
-*   **Traducción:** ritmo, cadencia, movimiento rítmico, compás, medida, proporción
-
-### βίος (bíos)
-*   **Declinación:** 2.ª (Masc. -ος)
-*   **Traducción:** vida, modo de vida, existencia, sustento, medio de vida, carácter
-
-### ἄνθρωπος (ánthrōpos)
-*   **Declinación:** 2.ª (Masc. -ος)
-*   **Traducción:** hombre, ser humano, persona, mortal, individuo, género humano
-
-### μόριον (mórion)
-*   **Declinación:** 2.ª (Neut. -ον)
-*   **Traducción:** parte, elemento, componente, porción, sección, miembro
-
-### μέτρον (métron)
-*   **Declinación:** 2.ª (Neut. -ον)
-*   **Traducción:** metro, verso, medida, dimensión, límite, proporción
-
-### πρᾶγμα (prâgma)
-*   **Declinación:** 3.ª (Neut. -ματ-)
-*   **Referencia:** Ver Diapositiva 8
-*   **Formas:** πραγμάτων
-*   **Traducción:** hecho, asunto, cosa, acción, evento, circunstancia, negocio, acontecimiento
+### Partículas e Indeclinables (Preposiciones, Conjunciones, Adverbios)
+| Palabra | Tipo | Sentido |
+| :--- | :--- | :--- |
+| **ἀλλὰ** | Conjunción | sino |
+| **ἄν** | Partícula modal | (valor potencial) |
+| **ἄνευ** | Preposición (+ Gen.) | sin |
+| **γὰρ** | Conjunción causal | pues |
+| **δέ / δ'** | Partícula conectiva | y / pero |
+| **δι' / διὰ** | Preposición | mediante / por |
+| **εἶτα** | Adverbio | luego |
+| **ἐκ / ἐξ** | Preposición (+ Gen.) | de / desde |
+| **ἐν** | Preposición (+ Dat.) | en |
+| **ἐπεὶ** | Conjunción | puesto que |
+| **καὶ** | Conjunción | y |
+| **κατά** | Preposición (+ Ac.) | según |
+| **μέν** | Partícula | ciertamente |
+| **μόνον** | Adverbio | solo |
+| **οὐ / οὐκ** | Adverbio negación | no |
+| **οὖν** | Conjunción ilativa | pues |
+| **πάλιν** | Adverbio | de nuevo |
+| **παρὰ** | Preposición (+ Ac.) | aparte |
+| **περὶ** | Preposición (+ Gen.) | acerca de |
+| **πρῶτον** | Adverbio | primero |
+| **ὑπὸ** | Preposición (+ Gen.) | por |
+| **ὕστερον** | Adverbio | después |
+| **χωρὶς** | Adverbio | por separado |
+| **ὡς** | Adverbio relativo | como |
 
 ---
-
-## Sustantivos 3.ª Declinación
-
-### μίμησις (mímēsis)
-*   **Declinación:** 3.ª (Fem. -ις/-εως)
-*   **Tema:** vocal -ι
-*   **Referencia:** Ver Diapositiva 21
-*   **Formas:** μίμησις, μίμησιν
-*   **Traducción:** imitación, representación, reproducción, copia, simulación, réplica, emulación
-
-### πρᾶξις (prâxis)
-*   **Declinación:** 3.ª (Fem. -ις/-εως)
-*   **Formas:** πράξεως, πράξεων, πράξεις
-*   **Traducción:** acción, acto, hecho, obra, práctica, actividad, gestión, empresa
-
-### λέξις (léxis)
-*   **Declinación:** 3.ª (Fem. -ις/-εως)
-*   **Formas:** λέξις, λέξιν
-*   **Traducción:** elocución, dicción, estilo, expresión verbal, forma de hablar, lenguaje, palabra
-
-### ὄψις (ópsis)
-*   **Declinación:** 3.ª (Fem. -ις/-εως)
-*   **Formas:** ὄψεως, ὄψις
-*   **Traducción:** espectáculo, vista, aspecto, apariencia, visión, escena, puesta en escena
-
-### δύναμις (dýnamis)
-*   **Declinación:** 3.ª (Fem. -ις/-εως)
-*   **Formas:** δύναμιν
-*   **Traducción:** fuerza, potencia, poder, capacidad, facultad, virtud, eficacia, posibilidad
-
-### σύνθεσις (sýnthesis)
-*   **Declinación:** 3.ª (Fem. -ις/-εως)
-*   **Formas:** σύνθεσιν
-*   **Traducción:** composición, unión, combinación, estructura, ensamblaje, organización
-
-### σύστασις (sýstasis)
-*   **Declinación:** 3.ª (Fem. -ις/-εως)
-*   **Traducción:** estructuración, composición, constitución, organización, arreglo, disposición
-
-### κάθαρσις (kátharsis)
-*   **Declinación:** 3.ª (Fem. -ις/-εως)
-*   **Traducción:** purificación, catarsis, purgación, limpieza, clarificación, depuración
-
-### ἦθος (êthos)
-*   **Declinación:** 3.ª (Neut. -εσ-)
-*   **Tema:** silbante
-*   **Referencia:** Ver Diapositiva 13
-*   **Formas:** ἦθος, ἤθη, ἠθῶν
-*   **Traducción:** carácter, costumbre, índole, naturaleza, disposición, modo de ser, moral, hábito
-
-### μέγεθος (mégethos)
-*   **Declinación:** 3.ª (Neut. -εσ-)
-*   **Traducción:** magnitud, tamaño, grandeza, extensión, dimensión, envergadura
-
-### μέλος (mélos)
-*   **Declinación:** 3.ª (Neut. -εσ-)
-*   **Formas:** μέλος, μέλους
-*   **Traducción:** canto, melodía, música, tonada, estrofa, canción, pieza musical
-
-### πάθος (páthos)
-*   **Declinación:** 3.ª (Neut. -εσ-)
-*   **Formas:** παθημάτων
-*   **Traducción:** pasión, afección, emoción, padecimiento, sufrimiento, sentimiento, experiencia
-
-### τέλος (télos)
-*   **Declinación:** 3.ª (Neut. -εσ-)
-*   **Traducción:** fin, meta, objetivo, propósito, término, conclusión, resultado, cumplimiento
-
-### εἶδος (eîdos)
-*   **Declinación:** 3.ª (Neut. -εσ-)
-*   **Formas:** εἰδῶν, εἴδεσι
-*   **Traducción:** especie, forma, clase, tipo, aspecto, apariencia, género, idea
-
-### μέρος (méros)
-*   **Declinación:** 3.ª (Neut. -εσ-)
-*   **Formas:** μέρη, μέρος
-*   **Traducción:** parte, porción, sección, división, fragmento, lote, destino
-
-### ἔλεος (éleos)
-*   **Declinación:** 3.ª (Neut./Masc.)
-*   **Formas:** ἐλέου
-*   **Traducción:** compasión, piedad, lástima, misericordia, conmiseración, condolencia
-
-### φόβος (phóbos)
-*   **Declinación:** 2.ª (Masc. -ος)
-*   **Traducción:** temor, miedo, terror, espanto, pavor, alarma, aprensivo
-
----
-
-## Participios
-
-### Presente Activo (-ων, -οντος)
-*   **Declinación:** 3.ª (Masc/Neut), 1.ª (Fem)
-*   **Tema:** nasal reforzada (-ντ-)
-*   **Referencia:** Ver Diapositiva 10
-*   **Ejemplos:** δρώντων, πράττοντες, λέγοντες, ἔχοντα
-
-### Presente Medio/Pasivo (-όμενος)
-*   **Declinación:** 2.ª/1.ª
-*   **Ejemplos:** γινόμενον
-
-### Aoristo Activo (-ας, -αντος)
-*   **Declinación:** 3.ª/1.ª
-*   **Ejemplos:** ἀναλαβόντες
-
-### Perfecto Pasivo (-μένος)
-*   **Declinación:** 2.ª/1.ª
-*   **Ejemplos:** εἰρημένων, ἡδυσμένῳ
-
----
-
-## Adjetivos
-
-### σπουδαῖος (spoudaîos)
-*   **Declinación:** 2.ª/1.ª
-*   **Traducción:** noble, serio, digno, excelente, valioso, bueno, admirable, elevado
-
-### τέλειος (téleios)
-*   **Declinación:** 2.ª/1.ª
-*   **Traducción:** completo, perfecto, acabado, pleno, íntegro, total, consumado
-
-### μέγιστος (mégistos)
-*   **Declinación:** 2.ª/1.ª (Superlativo)
-*   **Traducción:** el más grande, el mayor, el más importante, principal, supremo, máximo
-
-### πᾶς, πᾶσα, πᾶν (pâs)
-*   **Declinación:** 3.ª/1.ª mixta
-*   **Tema:** nasal (-ντ-)
-*   **Referencia:** Ver Diapositiva 10
-*   **Traducción:** todo, toda, cada, entero, cualquier, cada uno, universal, total
-
-### φανερός (phanerós)
-*   **Declinación:** 2.ª/1.ª
-*   **Traducción:** manifiesto, evidente, claro, patente, visible, obvio, notorio, aparente
-
----
-
-## Numerales
-
-### δύο (dýo) - Dual indeclinable
-*   **Traducción:** dos
-
-### τρία (tría) - Plural
-*   **Traducción:** tres
-
-### ἕξ (héx) - Indeclinable
-*   **Traducción:** seis
-
-### ἕν (hén) - Singular
-*   **Traducción:** uno
-
----
-
-## Adverbios
-
-### ὕστερον (hýsteron)
-*   **Traducción:** después, luego, más tarde, posteriormente, a continuación, en segundo lugar
-
-### πρῶτον (prôton)
-*   **Traducción:** primero, en primer lugar, ante todo, primeramente, al principio
-
-### εἶτα (eîta)
-*   **Traducción:** luego, después, entonces, a continuación, seguidamente, en seguida
-
-### πάλιν (pálin)
-*   **Traducción:** de nuevo, otra vez, a su vez, en cambio, por el contrario, nuevamente
-
-### μόνον (mónon)
-*   **Traducción:** solo, solamente, únicamente, exclusivamente, meramente, nada más que
-
-### χωρίς (chōrís)
-*   **Traducción:** por separado, aparte, separadamente, independientemente, distintamente
-
-### οὐ / οὐκ / οὐχ (ou)
-*   **Categoría:** Adverbio negativo
-*   **Traducción:** no, en absoluto, de ninguna manera, nada, nunca (con verbos)
-
-### ὡσαύτως (hōsaútōs)
-*   **Traducción:** de igual modo, del mismo modo, igualmente, así mismo, de la misma manera
-
----
-
-*Documento consolidado: entradas únicas con referencias a las Tablas del curso.*
+*Fin del Análisis Consolidado.*

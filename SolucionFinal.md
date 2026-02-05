@@ -14,13 +14,13 @@
 
 **\[1.1\]** Περὶ μὲν οὖν τῆς ἐν ἐξαμέτροις μιμητικῆς καὶ περὶ κωμωδίας ὕστερον ἐροῦμεν· περὶ δὲ τραγωδίας λέγωμεν ἀναλαβόντες αὐτῆς ἐκ τῶν εἰρημένων τὸν γινόμενον ὅρον τῆς οὐσίας.
 
-"Hablaremos después acerca de la imitación en hexámetros y de la comedia; hablemos ahora de la tragedia, retomando de lo dicho la definición de su esencia."
+"Hablaremos después acerca de la representación en hexámetros y de la comedia; hablemos ahora de la tragedia, retomando de lo dicho la definición de su esencia."
 
 ### **Párrafo 2: Definición Esencial y Medios (Lenguaje)**
 
 **\[2.1\]** Ἔστιν οὖν τραγῳδία μίμησις πράξεως σπουδαίας καὶ τελείας μέγεθος ἐχούσης, ἡδυσμένῳ λόγῳ χωρὶς ἑκάστῳ τῶν εἰδῶν ἐν τοῖς μορίοις, δρώντων καὶ οὐ δι ̓ ἀπαγγελίας, δι ̓ ἐλέου καὶ φόβου περαίνουσα τὴν τῶν τοιούτων παθημάτων κάθαρσιν.
 
-"La tragedia es, pues, imitación de una acción noble y completa, de magnitud determinada; con lenguaje adornado, distribuido separadamente en sus partes; realizada por quienes actúan y no mediante relato; y que, por medio de la compasión y el temor, lleva a cabo la purificación de tales pasiones."
+"La tragedia es, pues, representación de una acción noble y completa, de magnitud determinada; con lenguaje adornado, distribuido por partes; realizada por quienes actúan y no mediante relato; y que, por medio de la compasión y el temor, realiza la catarsis de tales pasiones."
 
 **\[2.2\]** Λέγω δὲ ἡδυσμένον μὲν λόγον τὸν ἔχοντα ῥυθμὸν καὶ ἁρμονίαν \[καὶ μέλος\], τὸ δὲ χωρὶς τοῖς εἴδεσι τὸ διὰ μέτρων ἔνια μόνον περαίνεσθαι καὶ πάλιν ἕτερα διὰ μέλους.
 
@@ -30,7 +30,7 @@
 
 **\[3.1\]** Ἔπεὶ δὲ πράττοντες ποιοῦνται τὴν μίμησιν, πρῶτον μὲν ἐξ ἀνάγκης ἂν εἴη τι μόριον τραγῳδίας ὁ τῆς ὄψεως κόσμος· εἶτα μελοποιία καὶ λέξις, ἐν τούτοις γὰρ ποιοῦνται τὴν μίμησιν.
 
-"Puesto que la imitación se realiza actuando, primero y necesariamente una parte de la tragedia es el ornato del espectáculo; luego la melopeya y la elocución, pues en ellas se realiza la imitación."
+"Puesto que la representación se realiza actuando, primero y necesariamente una parte de la tragedia es el ornato del espectáculo; luego la melopeya y la elocución, pues en ellas se realiza la representación."
 
 **\[3.2\]** Λέγω δὲ λέξιν μὲν αὐτὴν τὴν τῶν μέτρων σύνθεσιν, μελοποιίαν δὲ ὃ τὴν δύναμιν φανερὰν ἔχει πᾶσαν.
 
@@ -40,7 +40,7 @@
 
 **\[4.1\]** Ἐπεὶ δὲ πράξεώς ἐστι μίμησις, πράττεται δὲ ὑπὸ τινῶν πραττόντων, οὓς ἀνάγκη ποιούς τινας εἶναι κατά τε τὸ ἦθος καὶ τὴν διάνοιαν (διὰ γὰρ τούτων καὶ τὰς πράξεις εἶναί φαμεν ποιάς τινας, \[πέφυκεν αἴτια δύο τῶν πράξεων εἶναι, διάνοια καὶ ἦθος\] καὶ κατὰ ταύτας καὶ τυγχάνουσι καὶ ἀποτυγχάνουσι πάντες), ἔστιν δὲ τῆς μὲν πράξεως ὁ μῦθος ἡ μίμησις,
 
-"Y puesto que es imitación de una acción, y se ejecuta por algunos que actúan, a quienes es necesario ser de cierta cualidad según el carácter y el pensamiento (pues por estos decimos que las acciones son de cierta cualidad, \[y dos son por naturaleza las causas de las acciones: el pensamiento y el carácter\] y según estas todos aciertan o fracasan), la fábula \[trama\] es la imitación de la acción;"
+"Y puesto que es representación de una acción, y se ejecuta por algunos que actúan, a quienes es necesario ser de cierta cualidad según el carácter y el pensamiento (pues por estos decimos que las acciones son de cierta cualidad, \[y dos son por naturaleza las causas de las acciones: el pensamiento y el carácter\] y según estas todos aciertan o fracasan), la fábula \[trama\] es la representación de la acción;"
 
 **\[4.2\]** λέγω γὰρ μῦθον τοῦτον τὴν σύνθεσιν τῶν πραγμάτων, τὰ δὲ ἤθη, καθ ̓ ὃ ποιούς τινας εἶναί φαμεν τοὺς πράττοντας, διάνοιαν δέ, ἐν ὅσοις λέγοντες ἀποδεικνύασίν τι ἢ καὶ ἀποφαίνονται γνώμην.
 
@@ -62,7 +62,7 @@
 
 **\[5.2\]** Μέγιστον δὲ τούτων ἐστὶν ἡ τῶν πραγμάτων σύστασις. Ἡ γὰρ τραγῳδία μίμησίς ἐστιν οὐκ ἀνθρώπων ἀλλὰ πράξεων καὶ βίου \[καὶ εὐδαιμονία καὶ κακοδαιμονία ἐν πράξει ἐστίν, καὶ τὸ τέλος πρᾶξίς τις ἐστίν, οὐ ποιότης· εἰσὶν δὲ κατὰ μὲν τὰ ἤθη ποιοί τινες, κατὰ δὲ τὰς πράξεις εὐδαίμονες ἢ τοὐναντίον\]·
  
- "De estos elementos, el más importante es la estructuración de los hechos. Pues la tragedia no es imitación de hombres, sino de acciones y de la vida \[y la felicidad y la infelicidad están en la acción, y el fin es una acción, no una cualidad; y son de cierta cualidad según los caracteres, pero felices o lo contrario según las acciones\];"
+ "De estos elementos, el más importante es la estructuración de los hechos. Pues la tragedia no es representación de hombres, sino de acciones y de la vida \[y la felicidad y la infelicidad están en la acción, y el fin es una acción, no una cualidad; y son de cierta cualidad según los caracteres, pero felices o lo contrario según las acciones\];"
 
 **\[5.3\]** οὔκουν ὅπως τὰ ἤθη μιμήσωνται πράττουσιν, ἀλλὰ τὰ ἤθη συμπεριλαμβάνουσιν διὰ τὰς πράξεις· ὥστε τὰ πράγματα καὶ ὁ μῦθος τέλος τῆς τραγῳδίας, τὸ δὲ τέλος μέγιστον ἁπάντων.
 
@@ -90,7 +90,7 @@
 
 **\[7.1\]** Ἀρχὴ μὲν οὖν καὶ οἷον ψυχὴ ὁ μῦθος τῆς τραγῳδίας, δεύτερον δὲ τὰ ἤθη (παραπλήσιον γάρ ἐστιν καὶ ἐπὶ τῆς γραφικῆς· εἰ γάρ τις ἐναλείψειε τοῖς καλλίστοις φαρμάκοις χύδην, οὐκ ἂν ὁμοίως εὐφράνειεν καὶ λευκογραφήσας εἰκόνα)· ἔστιν τε μίμησις πράξεως καὶ διὰ ταύτην μάλιστα τῶν πραττόντων.
 
-"El principio, pues, y como si fuera el alma de la tragedia es la fábula, y en segundo lugar los caracteres (pues es algo parecido también en la pintura: si alguien untara con los más hermosos colores confusamente, no complacería de igual modo que habiendo dibujado una imagen en blanco y negro); y es imitación de una acción y, a causa de esta, sobre todo de los que actúan."
+"El principio, pues, y como si fuera el alma de la tragedia es la fábula, y en segundo lugar los caracteres (pues es algo parecido también en la pintura: si alguien untara con los más hermosos colores confusamente, no complacería de igual modo que habiendo dibujado una imagen en blanco y negro); y es representación de una acción y, a causa de esta, sobre todo de los que actúan."
 
 **\[7.2\]** Τρίτον δὲ ἡ διάνοια· τοῦτο δέ ἐστιν τὸ λέγειν δύνασθαι τὰ ἐνόντα καὶ τὰ ἁρμόττοντα, ὅπερ ἐπὶ τῶν λόγων τῆς πολιτικῆς καὶ ῥητορικῆς ἔργον ἐστίν· οἱ μὲν γὰρ ἀρχαῖοι πολιτικῶς ἐποίουν λέγοντας, οἱ δὲ νῦν ῥητορικῶς.
 
@@ -117,14 +117,14 @@
 
 **Tema:** La definición esencial de la tragedia y su estructura teleológica
 
-El capítulo abre con la promesa de tratar después la épica y la comedia, y se concentra en la tragedia para fijar su esencia. La definición que la traducción presenta es clara: la tragedia es imitación de una acción noble y completa, de magnitud determinada, con lenguaje adornado, distribuido por partes; realizada por agentes en acción y no por relato; y que, mediante compasión y temor, cumple una purificación de tales pasiones. Esta definición no es un adorno inicial, sino el núcleo que ordena todo el capítulo.
+El capítulo anuncia que la épica y la comedia se tratarán después y se concentra en fijar qué es la tragedia. La definición que ofrece la traducción es directa: la tragedia es representación de una acción noble y completa, de magnitud determinada; con lenguaje adornado, distribuido por partes; realizada por quienes actúan y no mediante relato; y que, por medio de la compasión y el temor, realiza la catarsis de tales pasiones. Esa definición no queda aislada: organiza todo el capítulo.
 
-¿Cómo construye Aristóteles esa definición a lo largo del capítulo? Primero define el objeto de la imitación (acción, no personas) y delimita el modo (actuar, no narrar). Luego explica el medio del lenguaje adornado y lo distribuye según las partes de la obra. Después enumera las seis partes de la tragedia y muestra que la fábula es la imitación de la acción misma. Finalmente argumenta, con ejemplos, que la fábula es el principio y el alma de la tragedia, y que los demás elementos dependen de ella. El capítulo, por tanto, no solo define: justifica cada componente de la definición con una secuencia de precisiones conceptuales.
+¿Cómo se construye esa definición a lo largo del texto? Primero se delimita el objeto de la representación (acciones, no personas) y el modo (actuar, no narrar). Luego se aclara el medio: el lenguaje adornado y su distribución en partes. Después se enumeran las seis partes de la tragedia y se muestra que la fábula es la representación misma de la acción. Finalmente se justifica con ejemplos por qué la fábula es el principio y el “alma” de la tragedia. Así, el capítulo no solo define, sino que explica y sostiene cada término de la definición.
 
-La relación entre mímesis, praxis, completitud, placer propio de la tragedia y finalidad se articula así: la mímesis es el acto de representar, pero su objeto esencial es la praxis, la acción humana en su dimensión significativa. Una acción es “completa” cuando está organizada con principio, medio y fin, lo que da inteligibilidad y unidad. Esta completitud no es meramente temporal, sino estructural. El placer propio de la tragedia proviene de esa estructura inteligible: al contemplar una acción organizada, el espectador comprende el sentido de lo que ocurre. La finalidad (télos) es la catarsis; no es un añadido exterior, sino el resultado propio de la organización de la acción por la fábula.
+La relación entre representación, acción, completitud, placer propio y finalidad se entiende así: representar es hacer visible una acción; la acción es el núcleo de lo trágico; la completitud no es solo terminar, sino estar estructurada con principio, medio y fin; y de esa estructura proviene el placer propio de la tragedia, porque vuelve inteligible lo que ocurre. La finalidad (télos) es la catarsis: no algo añadido, sino el efecto que resulta de una acción bien organizada por la fábula.
 
-Mi traducción ilumina la estructura conceptual del capítulo porque mantiene la jerarquía de los elementos: el espectáculo y la melopeya aparecen como medios, pero la fábula ocupa el lugar central. El papel del espectador se insinúa cuando se describe el efecto de la tragedia: la obra actúa “por medio de la compasión y el temor”. Esto supone un espectador afectado, no un observador neutro. El capítulo dice que el efecto en quien contempla es una transformación de esas pasiones a través de la trama, no a través del espectáculo. Por eso Aristóteles coloca el espectáculo al final: es seductor, pero no esencial.
+La traducción ilumina la estructura conceptual porque conserva la jerarquía: el espectáculo y la melopeya aparecen como medios, pero la fábula tiene primacía. El papel del espectador se reconoce en el efecto que la tragedia produce: compasión y temor no son simples emociones sueltas, sino el camino por el cual la obra opera. El capítulo sugiere que la transformación no depende del espectáculo, sino de la trama; por eso el espectáculo es seductor pero secundario.
 
-En cuanto a la articulación de temor, compasión y catarsis, la traducción subraya la conexión causal: la tragedia “lleva a cabo la purificación” mediante esas emociones. Esto significa que la experiencia trágica no es solo descarga emocional, sino un proceso dirigido. El temor y la compasión son las vías de acceso, y la catarsis es el resultado. Mi lectura filosófica de κάθαρσις, desde la traducción, es que se trata de una clarificación afectiva: las pasiones se ordenan al comprender la estructura de la acción. No se suprimen, sino que se vuelven inteligibles. Así, la catarsis es un efecto cognitivo y ético a la vez: permite reconocer la lógica interna del destino humano y reubicar la emoción dentro de un marco racional.
+En cuanto a la articulación de compasión, temor y catarsis, la traducción marca una relación causal: la tragedia “realiza la catarsis” mediante esas pasiones. Esto implica que la experiencia trágica no es una descarga irracional, sino un proceso dirigido. Mi lectura filosófica de *catarsis* es hermenéutica: las pasiones se ordenan porque la acción representada se vuelve comprensible. No se eliminan, sino que se clarifican. La catarsis es, así, una transformación afectiva con sentido cognitivo y ético.
 
-En síntesis, el capítulo muestra que la tragedia es un sistema teleológico: la mímesis organiza la praxis mediante la fábula, la completitud garantiza inteligibilidad, el espectador recibe el impacto emocional, y la catarsis cumple la finalidad. La traducción intenta respetar esa arquitectura: no se trata de personajes aislados, sino de acciones estructuradas que llevan a un efecto formativo en quien contempla.
+Un punto decisivo es la prioridad de la fábula sobre los caracteres. La fábula no es un “argumento” superficial, sino la estructura de los hechos; los caracteres importan en cuanto hacen posible ciertas acciones, pero no reemplazan la organización de la trama. En un lenguaje actual, Aristóteles sostiene que el sentido trágico se produce por la arquitectura de los acontecimientos, no por la psicología aislada. Esta distinción ayuda a leer la tragedia como análisis de la acción humana más que como retrato de personalidades.\n+\n+En síntesis, el capítulo presenta la tragedia como un sistema teleológico: la representación organiza la acción mediante la fábula, la completitud asegura inteligibilidad, el espectador experimenta compasión y temor, y la catarsis cumple la finalidad. La traducción busca ser rigurosa y a la vez actual: conservar el argumento y decirlo en un español claro.

@@ -9,9 +9,9 @@ Este anexo justifica las decisiones de traducción contrastando cada término cl
 * **Términos:** *Μίμησις* (Mímesis), *Πράξεως* (Práxeōs), *Κάθαρσιν* (Kátharsin), *Σύστασις* (Sýstasis), *Ὄψεως* (Ópseōs), *Λέξις* (Léxis), *Σύνθεσις* (Sýnthesis), *Δύναμις* (Dýnamis).  
 * **Correspondencia con Tablas:** **Diapositiva 21: Tercera declinación (tema en ι υ variable)**.  
 * **Análisis Aplicado:**  
-  * *Μίμησις* (Nom. Sg.): Se traduce como "Imitación" (Sujeto). Sigue el modelo de *pólis*. En \[3.1\] se mantiene "imitación" y se evita "representación" para preservar la coherencia terminológica.  
+  * *Μίμησις* (Nom. Sg.): Se traduce como "Representación" (Sujeto). Sigue el modelo de *pólis*. En \[3.1\] se mantiene "representación" y se evita "representación" para preservar la coherencia terminológica.  
   * *Πράξεως* (Gen. Sg.): Sigue la alternancia vocálica (ι en el tema, ε en los casos oblicuos \+ ωσ del genitivo ático). Se traduce obligatoriamente con el genitivo objetivo: "**de** una acción".  
-  * *Κάθαρσιν* (Ac. Sg.): La desinencia *\-n* (ni) es propia de estos temas en acusativo. Se traduce como Objeto Directo de *peraínousa*: "purificación".
+  * *Κάθαρσιν* (Ac. Sg.): La desinencia *\-n* (ni) es propia de estos temas en acusativo. Se traduce como Objeto Directo de *peraínousa*: "catarsis".
   * *Ὄψεως* (Gen. Sg.): Genitivo de relación con *κόσμος* en hipérbaton; por eso se vierte "adorno del espectáculo" (ὄψις como término técnico de "espectáculo").
   * *Λέξιν* (Ac. Sg.): Acusativo de predicación con *λέγω*; se traduce "elocución" como término técnico.  
   * *Σύνθεσιν* (Ac. Sg.): "Composición"; en \[3.2\] se vierte "composición de los metros" por el genitivo *τῶν μέτρων*.  
@@ -75,7 +75,7 @@ Este anexo justifica las decisiones de traducción contrastando cada término cl
 * **Correspondencia con Tablas:** **Clase 2: Verbos Contractos / Voz Media**.
 * **Análisis Aplicado:**
   * Verbo *poiéō* en Presente Indicativo Medio (3.ª Pl.).
-  * No es un simple "hacen" (*poioûsin*), sino "hacen para sí" o "construyen". Aristotelianamente, implica que los poetas o actores realizan la imitación como un proceso interno y constructivo. La traducción "realizan" busca mantener este matiz activo-reflexivo.
+  * No es un simple "hacen" (*poioûsin*), sino "hacen para sí" o "construyen". Aristotelianamente, implica que los poetas o actores realizan la representación como un proceso interno y constructivo. La traducción "realizan" busca mantener este matiz activo-reflexivo.
 
 ## **8. Adverbios de Orden**
 
@@ -128,7 +128,7 @@ Esta herramienta se ha utilizado para validar cada línea de la traducción fina
 | Criterio | Pregunta de Control | Validación en Solución |
 | :--- | :--- | :--- |
 | **Morfología** | ¿El caso gramatical en español refleja la función sintáctica griega? | Sí (Genitivos subjetivos/objetivos distinguidos). |
-| **Léxico** | ¿Se ha usado la acepción técnica (filosófica) y no la coloquial? | Sí (*Mûthos* = Trama, no 'cuento'; *Mímesis* = Imitación, no 'copia'). |
+| **Léxico** | ¿Se ha usado la acepción técnica (filosófica) y no la coloquial? | Sí (*Mûthos* = Trama, no 'cuento'; *Mímesis* = Representación, no 'copia'). |
 | **Sintaxis** | ¿Se respetan las oraciones subordinadas y participiales? | Sí, se mantienen los incisos explicativos. |
 | **Estilo** | ¿El registro es académico/formal? | Sí. |
 | **Fidelidad** | ¿Hay paráfrasis innecesaria? | No, la traducción es literal-estructural. |

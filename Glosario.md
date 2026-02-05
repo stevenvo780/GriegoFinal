@@ -14,7 +14,7 @@ Traducción secuencial de cada palabra griega en orden de aparición.
 | τῆς | tês | la (de la) |
 | ἐν | en | en |
 | ἑξαμέτροις | hexamétrois | hexámetros |
-| μιμητικῆς | mimētikês | imitación |
+| μιμητικῆς | mimētikês | representación |
 | καὶ | kaì | y |
 | περὶ | perì | de |
 | κωμῳδίας | kōmōidías | comedia |
@@ -44,7 +44,7 @@ Traducción secuencial de cada palabra griega en orden de aparición.
 | Ἔστιν | Éstin | Es |
 | οὖν | oûn | pues |
 | τραγῳδία | tragōidía | tragedia |
-| μίμησις | mímēsis | imitación |
+| μίμησις | mímēsis | representación |
 | πράξεως | práxeōs | de una acción |
 | σπουδαίας | spoudaías | noble |
 | καὶ | kaì | y |
@@ -74,7 +74,7 @@ Traducción secuencial de cada palabra griega en orden de aparición.
 | τῶν | tōn | de |
 | τοιούτων | toioútōn | tales |
 | παθημάτων | pathēmátōn | pasiones |
-| κάθαρσιν | kátharsin | purificación |
+| κάθαρσιν | kátharsin | catarsis |
 
 ---
 
@@ -84,7 +84,7 @@ Traducción secuencial de cada palabra griega en orden de aparición.
 |--------|-----------------|------------|
 | Λέγω | Légō | Llamo |
 | δὲ | dè | (conectiva) |
-| ἡδυσμένον | hēdysménon | sazonado |
+| ἡδυσμένον | hēdysménon | adornado |
 | μὲν | mèn | (partícula) |
 | λόγον | lógon | lenguaje |
 | τὸν | tòn | el |
@@ -145,7 +145,7 @@ Traducción secuencial de cada palabra griega en orden de aparición.
 | γὰρ | gàr | pues |
 | ποιοῦνται | poioûntai | realizan |
 | τὴν | tḕn | la |
-| μίμησιν | mímēsin | imitación |
+| μίμησιν | mímēsin | representación |
 
 ---
 
@@ -181,7 +181,7 @@ Traducción secuencial de cada palabra griega en orden de aparición.
 | δὲ | dè | (conectiva) |
 | πράξεώς | práxeōs | de una acción |
 | ἐστι | esti | es |
-| μίμησις | mímēsis | imitación |
+| μίμησις | mímēsis | representación |
 | πράττεται | práttetai | es actuada |
 | δὲ | dè | y |
 | ὑπὸ | hypò | por |
@@ -234,7 +234,7 @@ Traducción secuencial de cada palabra griega en orden de aparición.
 | ὁ | ho | el |
 | μῦθος | mŷthos | mito |
 | ἡ | hē | la |
-| μίμησις | mímēsis | imitación |
+| μίμησις | mímēsis | representación |
 
 ---
 
@@ -386,7 +386,7 @@ Traducción secuencial de cada palabra griega en orden de aparición.
 | Ἡ | Hē | la |
 | γὰρ | gàr | pues |
 | τραγῳδία | tragōidía | tragedia |
-| μίμησίς | mímēsís | imitación |
+| μίμησίς | mímēsís | representación |
 | ἐστιν | estin | es |
 | οὐκ | ouk | no |
 | ἀνθρώπων | anthrṓpōn | de hombres |
@@ -657,7 +657,7 @@ Traducción secuencial de cada palabra griega en orden de aparición.
 | εἰκόνα | eikóna | imagen |
 | ἔστιν | éstin | es |
 | τε | te | y |
-| μίμησις | mímēsis | imitación |
+| μίμησις | mímēsis | representación |
 | πράξεως | práxeōs | de una acción |
 | καὶ | kaì | y |
 | διὰ | dià | a causa de |

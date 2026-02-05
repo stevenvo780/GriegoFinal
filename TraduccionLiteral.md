@@ -4,13 +4,13 @@
 
 Περὶ μὲν οὖν τῆς ἐν ἐξαμέτροις μιμητικῆς καὶ περὶ κωμωδίας ὕστερον ἐροῦμεν· περὶ δὲ τραγωδίας λέγωμεν ἀναλαβόντες αὐτῆς ἐκ τῶν εἰρημένων τὸν γινόμενον ὅρον τῆς οὐσίας.
 
-Hablaremos después acerca de la imitación en hexámetros y de la comedia; hablemos ahora de la tragedia, retomando de lo dicho la definición de su esencia.
+Hablaremos después acerca de la representación en hexámetros y de la comedia; hablemos ahora de la tragedia, retomando de lo dicho la definición de su esencia.
 
 ## Parrafo 2
 
 Ἔστιν οὖν τραγῳδία μίμησις πράξεως σπουδαίας καὶ τελείας μέγεθος ἐχούσης, ἡδυσμένῳ λόγῳ χωρὶς ἑκάστῳ τῶν εἰδῶν ἐν τοῖς μορίοις, δρώντων καὶ οὐ δι ̓ ἀπαγγελίας, δι ̓ ἐλέου καὶ φόβου περαίνουσα τὴν τῶν τοιούτων παθημάτων κάθαρσιν.
 
-La tragedia es, pues, imitación de una acción noble y completa, de magnitud determinada; con lenguaje adornado, distribuido separadamente en sus partes; realizada por quienes actúan y no mediante relato; y que, por medio de la compasión y el temor, lleva a cabo la purificación de tales pasiones.
+La tragedia es, pues, representación de una acción noble y completa, de magnitud determinada; con lenguaje adornado, distribuido por partes; realizada por quienes actúan y no mediante relato; y que, por medio de la compasión y el temor, realiza la catarsis de tales pasiones.
 
 Λέγω δὲ ἡδυσμένον μὲν λόγον τὸν ἔχοντα ῥυθμὸν καὶ ἁρμονίαν [καὶ μέλος], τὸ δὲ χωρὶς τοῖς εἴδεσι τὸ διὰ μέτρων ἔνια μόνον περαίνεσθαι καὶ πάλιν ἕτερα διὰ μέλους.
 
@@ -20,7 +20,7 @@ Llamo lenguaje adornado al que tiene ritmo, armonía y canto; y "separado por es
 
 Ἔπεὶ δὲ πράττοντες ποιοῦνται τὴν μίμησιν, πρῶτον μὲν ἐξ ἀνάγκης ἂν εἴη τι μόριον τραγῳδίας ὁ τῆς ὄψεως κόσμος· εἶτα μελοποιία καὶ λέξις, ἐν τούτοις γὰρ ποιοῦνται τὴν μίμησιν.
 
-Puesto que la imitación se realiza actuando, primero y necesariamente una parte de la tragedia es el ornato del espectáculo; luego la melopeya y la elocución, pues en ellas se realiza la imitación.
+Puesto que la representación se realiza actuando, primero y necesariamente una parte de la tragedia es el ornato del espectáculo; luego la melopeya y la elocución, pues en ellas se realiza la representación.
 
 Λέγω δὲ λέξιν μὲν αὐτὴν τὴν τῶν μέτρων σύνθεσιν, μελοποιίαν δὲ ὃ τὴν δύναμιν φανερὰν ἔχει πᾶσαν.
 
@@ -30,7 +30,7 @@ Llamo elocución a la composición misma de los versos, y melopeya a aquello cuy
 
 Ἐπεὶ δὲ πράξεώς ἐστι μίμησις, πράττεται δὲ ὑπὸ τινῶν πραττόντων, οὓς ἀνάγκη ποιούς τινας εἶναι κατά τε τὸ ἦθος καὶ τὴν διάνοιαν (διὰ γὰρ τούτων καὶ τὰς πράξεις εἶναί φαμεν ποιάς τινας, [πέφυκεν αἴτια δύο τῶν πράξεων εἶναι, διάνοια καὶ ἦθος] καὶ κατὰ ταύτας καὶ τυγχάνουσι καὶ ἀποτυγχάνουσι πάντες), ἔστιν δὲ τῆς μὲν πράξεως ὁ μῦθος ἡ μίμησις,
 
-Y puesto que es imitación de una acción, y se ejecuta por algunos que actúan, a quienes es necesario ser de cierta cualidad según el carácter y el pensamiento (pues por estos decimos que las acciones son de cierta cualidad, [y dos son por naturaleza las causas de las acciones: el pensamiento y el carácter] y según estas todos aciertan o fracasan), la fábula [trama] es la imitación de la acción;
+Y puesto que es representación de una acción, y se ejecuta por algunos que actúan, a quienes es necesario ser de cierta cualidad según el carácter y el pensamiento (pues por estos decimos que las acciones son de cierta cualidad, [y dos son por naturaleza las causas de las acciones: el pensamiento y el carácter] y según estas todos aciertan o fracasan), la fábula [trama] es la representación de la acción;
 
 λέγω γὰρ μῦθον τοῦτον τὴν σύνθεσιν τῶν πραγμάτων, τὰ δὲ ἤθη, καθ ̓ ὃ ποιούς τινας εἶναί φαμεν τοὺς πράττοντας, διάνοιαν δέ, ἐν ὅσοις λέγοντες ἀποδεικνύασίν τι ἢ καὶ ἀποφαίνονται γνώμην.
 
@@ -52,7 +52,7 @@ De estas especies, pues, se han servido no pocos de ellos, por así decirlo; pue
 
 Μέγιστον δὲ τούτων ἐστὶν ἡ τῶν πραγμάτων σύστασις. Ἡ γὰρ τραγῳδία μίμησίς ἐστιν οὐκ ἀνθρώπων ἀλλὰ πράξεων καὶ βίου [καὶ εὐδαιμονία καὶ κακοδαιμονία ἐν πράξει ἐστίν, καὶ τὸ τέλος πρᾶξίς τις ἐστίν, οὐ ποιότης· εἰσὶν δὲ κατὰ μὲν τὰ ἤθη ποιοί τινες, κατὰ δὲ τὰς πράξεις εὐδαίμονες ἢ τοὐναντίον]·
 
-De estos elementos, el más importante es la estructuración de los hechos. Pues la tragedia no es imitación de hombres, sino de acciones y de la vida [y la felicidad y la infelicidad están en la acción, y el fin es una acción, no una cualidad; y son de cierta cualidad según los caracteres, pero felices o lo contrario según las acciones];
+De estos elementos, el más importante es la estructuración de los hechos. Pues la tragedia no es representación de hombres, sino de acciones y de la vida [y la felicidad y la infelicidad están en la acción, y el fin es una acción, no una cualidad; y son de cierta cualidad según los caracteres, pero felices o lo contrario según las acciones];
 
 οὔκουν ὅπως τὰ ἤθη μιμήσωνται πράττουσιν, ἀλλὰ τὰ ἤθη συμπεριλαμβάνουσιν διὰ τὰς πράξεις· ὥστε τὰ πράγματα καὶ ὁ μῦθος τέλος τῆς τραγῳδίας, τὸ δὲ τέλος μέγιστον ἁπάντων.
 
@@ -80,7 +80,7 @@ Además, es señal de esto que también los que empiezan a poetizar pueden acert
 
 Ἀρχὴ μὲν οὖν καὶ οἷον ψυχὴ ὁ μῦθος τῆς τραγῳδίας, δεύτερον δὲ τὰ ἤθη (παραπλήσιον γάρ ἐστιν καὶ ἐπὶ τῆς γραφικῆς· εἰ γάρ τις ἐναλείψειε τοῖς καλλίστοις φαρμάκοις χύδην, οὐκ ἂν ὁμοίως εὐφράνειεν καὶ λευκογραφήσας εἰκόνα)· ἔστιν τε μίμησις πράξεως καὶ διὰ ταύτην μάλιστα τῶν πραττόντων.
 
-El principio, pues, y como si fuera el alma de la tragedia es la fábula, y en segundo lugar los caracteres (pues es algo parecido también en la pintura: si alguien untara con los más hermosos colores confusamente, no complacería de igual modo que habiendo dibujado una imagen en blanco y negro); y es imitación de una acción y, a causa de esta, sobre todo de los que actúan.
+El principio, pues, y como si fuera el alma de la tragedia es la fábula, y en segundo lugar los caracteres (pues es algo parecido también en la pintura: si alguien untara con los más hermosos colores confusamente, no complacería de igual modo que habiendo dibujado una imagen en blanco y negro); y es representación de una acción y, a causa de esta, sobre todo de los que actúan.
 
 Τρίτον δὲ ἡ διάνοια· τοῦτο δέ ἐστιν τὸ λέγειν δύνασθαι τὰ ἐνόντα καὶ τὰ ἁρμόττοντα, ὅπερ ἐπὶ τῶν λόγων τῆς πολιτικῆς καὶ ῥητορικῆς ἔργον ἐστίν· οἱ μὲν γὰρ ἀρχαῖοι πολιτικῶς ἐποίουν λέγοντας, οἱ δὲ νῦν ῥητορικῶς.
 

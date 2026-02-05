@@ -20,13 +20,13 @@ Este documento detalla el proceso filológico intermedio entre el texto griego o
 
 **Análisis de Reordenamiento y Adiciones:**
 *   **Partículas (*mèn oûn*):** Se agrupan al inicio como "Así pues".
-*   **Hipérbaton:** *tῆς ἐν ἑξαμέτροις μιμητικῆς* se reordena como "la imitación en hexámetros".
+*   **Hipérbaton:** *tῆς ἐν ἑξαμέτροις μιμητικῆς* se reordena como "la representación en hexámetros".
 *   **Sujeto:** *Eroûmen* implica "nosotros" (hablaremos).
 *   **Participio:** *Analabóntes* (retomando) actúa como circunstancial.
 *   **Genitivos:** *Autês* (de ella) se coloca junto a *ousías* (esencia) para claridad: "su esencia".
 
 **Traducción Final:**
-"Así pues, acerca de la imitación (representación) en hexámetros y de la comedia hablaremos luego; hablemos ahora sobre la tragedia, retomando la definición de su esencia que surge de lo dicho."
+"Así pues, acerca de la representación en hexámetros y de la comedia hablaremos luego; hablemos ahora sobre la tragedia, retomando la definición de su esencia que surge de lo dicho."
 
 ---
 
@@ -37,32 +37,32 @@ Este documento detalla el proceso filológico intermedio entre el texto griego o
 Ἔστιν οὖν τραγῳδία μίμησις πράξεως σπουδαίας καὶ τελείας μέγεθος ἐχούσης, ἡδυσμένῳ λόγῳ χωρὶς ἑκάστῳ τῶν εἰδῶν ἐν τοῖς μορίοις, δρώντων καὶ οὐ δι ̓ ἀπαγγελίας, δι ̓ ἐλέου καὶ φόβου περαίνουσα τὴν τῶν τοιούτων παθημάτων κάθαρσιν.
 
 **Traducción Literal (Orden Griego):**
-"Es / pues / tragedia / imitación / de acción / noble / y / completa / magnitud / que tiene, / con sazonado / lenguaje / separadamente / para cada una / de las / especies / en / las / partes, / de actuantes / y / no / mediante / relato, / a través de / compasión / y / temor / llevando a cabo / la / de las / tales / afecciones / catarsis."
+"Es / pues / tragedia / representación / de acción / noble / y / completa / magnitud / que tiene, / con adornado / lenguaje / separadamente / para cada una / de las / especies / en / las / partes, / de actuantes / y / no / mediante / relato, / a través de / compasión / y / temor / llevando a cabo / la / de las / tales / afecciones / catarsis."
 
 **Análisis de Reordenamiento y Adiciones:**
 *   **Participio:** *echousēs* (que tiene) modifica a *práxeōs* (acción).
 *   **Dativo:** *Hēdysménō lógō* es instrumental ("con lenguaje adornado").
-*   **Distributivo:** *Chorìs hekástō...* se ajusta a "usando por separado cada una de las especies".
+*   **Distributivo:** *Chorìs hekástō...* se ajusta a "separado por especies".
 *   **Agente:** *Dróntōn* (de los que actúan) se refiere a los imitadores.
-*   **Orden:** *Tēn... kátharsin* encierra los genitivos. Se despliega: "la purificación de tales pasiones".
+*   **Orden:** *Tēn... kátharsin* encierra los genitivos. Se despliega: "la catarsis de tales pasiones".
 
 **Traducción Final:**
-"Es, pues, la tragedia imitación (representación) de una acción noble y completa, que tiene magnitud; con lenguaje adornado, usando por separado cada una de las especies en las partes; de quienes actúan y no mediante relato; que a través de la compasión y el temor lleva a cabo la purificación (catarsis) de tales pasiones."
+"La tragedia es, pues, representación de una acción noble y completa, de magnitud determinada; con lenguaje adornado, distribuido por partes; realizada por quienes actúan y no mediante relato; y que, por medio de la compasión y el temor, realiza la catarsis de tales pasiones."
 
 ### **[2.2]**
 **Texto Griego:**
 Λέγω δὲ ἡδυσμένον μὲν λόγον τὸν ἔχοντα ῥυθμὸν καὶ ἁρμονίαν [καὶ μέλος], τὸ δὲ χωρὶς τοῖς εἴδεσι τὸ διὰ μέτρων ἔνια μόνον περαίνεσθαι καὶ πάλιν ἕτερα διὰ μέλους.
 
 **Traducción Literal (Orden Griego):**
-"Digo / y / sazonado / por una parte / lenguaje / el / que tiene / ritmo / y / armonía / [y canto], / lo [que es] / por otra parte / separadamente / para las / especies / el / mediante / metros / unas cosas / solo / llevarse a cabo / y / de nuevo / otras cosas / mediante / canto."
+"Digo / y / adornado / por una parte / lenguaje / el / que tiene / ritmo / y / armonía / [y canto], / lo [que es] / por otra parte / separadamente / para las / especies / el / mediante / metros / unas cosas / solo / llevarse a cabo / y / de nuevo / otras cosas / mediante / canto."
 
 **Análisis de Reordenamiento y Adiciones:**
 *   **Verbo:** *Légō* se traduce "Llamo".
-*   **Sustantivación compleja:** *Tò... peraínesthai* (el llevarse a cabo) se traduce como "al hecho de que algunas cosas se llevan a cabo".
+*   **Sustantivación compleja:** *Tò... peraínesthai* (el llevarse a cabo) se traduce como "al hecho de que unas partes se ejecutan".
 *   **Elipsis:** Se sobreentiende "[llamo]" en la segunda parte coordinada por *tò dè*.
 
 **Traducción Final:**
-"Llamo lenguaje sazonado al que tiene ritmo, armonía y canto; y [llamo] "por separado con las especies" al hecho de que algunas cosas se llevan a cabo solo mediante versos y otras, a su vez, mediante el canto."
+"Llamo lenguaje adornado al que tiene ritmo, armonía y canto; y "separado por especies" al hecho de que unas partes se ejecutan solo en verso y otras, a su vez, mediante el canto."
 
 ---
 
@@ -73,7 +73,7 @@ Este documento detalla el proceso filológico intermedio entre el texto griego o
 Ἔπεὶ δὲ πράττοντες ποιοῦνται τὴν μίμησιν, πρῶτον μὲν ἐξ ἀνάγκης ἂν εἴη τι μόριον τραγῳδίας ὁ τῆς ὄψεως κόσμος· εἶτα μελοποιία καὶ λέξις, ἐν τούτοις γὰρ ποιοῦνται τὴν μίμησιν.
 
 **Traducción Literal (Orden Griego):**
-"Puesto que / y / actuando / se hacen [para sí] / la / imitación, / primero / por una parte / por / necesidad / podría / ser / alguna / parte / de tragedia / el / de la / vista / adorno; / luego / melopeya / y / elocución, / en / estos / pues / se hacen / la / imitación."
+"Puesto que / y / actuando / se hacen [para sí] / la / representación, / primero / por una parte / por / necesidad / podría / ser / alguna / parte / de tragedia / el / de la / vista / adorno; / luego / melopeya / y / elocución, / en / estos / pues / se hacen / la / representación."
 
 **Análisis de Reordenamiento y Adiciones:**
 *   **Sintaxis:** *Práttontes* (actuando) explica el modo.
@@ -82,7 +82,7 @@ Este documento detalla el proceso filológico intermedio entre el texto griego o
 *   **Causal:** *En toútois...* explica los medios.
 
 **Traducción Final:**
-"Puesto que realizan la representación (imitación) actuando, primero sería necesariamente una parte de la tragedia la decoración del espectáculo; luego la melopeya y la elocución, pues en estos [medios] realizan la representación (imitación)."
+"Puesto que realizan la representación actuando, primero sería necesariamente una parte de la tragedia la decoración del espectáculo; luego la melopeya y la elocución, pues en estos [medios] realizan la representación."
 
 ### **[3.2]**
 **Texto Griego:**
@@ -108,16 +108,16 @@ Este documento detalla el proceso filológico intermedio entre el texto griego o
 Ἐπεὶ δὲ πράξεώς ἐστι μίμησις, πράττεται δὲ ὑπὸ τινῶν πραττόντων, οὓς ἀνάγκη ποιούς τινας εἶναι κατά τε τὸ ἦθος καὶ τὴν διάνοιαν (διὰ γὰρ τούτων καὶ τὰς πράξεις εἶναί φαμεν ποιάς τινας, [πέφυκεν αἴτια δύο τῶν πράξεων εἶναι, διάνοια καὶ ἦθος] καὶ κατὰ ταύτας καὶ τυγχάνουσι καὶ ἀποτυγχάνουσι πάντες), ἔστιν δὲ τῆς μὲν πράξεως ὁ μῦθος ἡ μίμησις,
 
 **Traducción Literal (Orden Griego):**
-"Puesto que / y / de acción / es / imitación, / es actuada / y / por / algunos / actuantes, / a los cuales / necesidad / de cierta cualidad / unos / ser / según / tanto / el / carácter / y / el / pensamiento / (a través de / pues / estos / también / las / acciones / ser / decimos / de cierta cualidad, / [son por naturaleza / causas / dos / de las / acciones / ser, / pensamiento / y / carácter] / y / según / estas / tanto / tienen éxito / y / fracasan / todos), / es / y / de la / por una parte / acción / la / fábula / la / imitación,"
+"Puesto que / y / de acción / es / representación, / es actuada / y / por / algunos / actuantes, / a los cuales / necesidad / de cierta cualidad / unos / ser / según / tanto / el / carácter / y / el / pensamiento / (a través de / pues / estos / también / las / acciones / ser / decimos / de cierta cualidad, / [son por naturaleza / causas / dos / de las / acciones / ser, / pensamiento / y / carácter] / y / según / estas / tanto / tienen éxito / y / fracasan / todos), / es / y / de la / por una parte / acción / la / fábula / la / representación,"
 
 **Análisis de Reordenamiento y Adiciones:**
 *   **Pasiva:** *Práttetai* -> "es actuada".
 *   **Relación:** *Poioús tinas* -> "de cierta cualidad" (Acusativo predicativo).
 *   **Interpolación:** Se traduce el texto entre corchetes integrándolo lógicamente.
-*   **Definición:** *Hē mímēsis* es el predicado de *Ho mûthos*. "La fábula es la imitación".
+*   **Definición:** *Hē mímēsis* es el predicado de *Ho mûthos*. "La fábula es la representación".
 
 **Traducción Final:**
-"Y puesto que es imitación de una acción, y es actuada por algunos que actúan, a quienes es necesidad ser de cierta cualidad según el carácter y el pensamiento (pues por medio de estos decimos que las acciones son de cierta cualidad, [y dos son las causas naturales de las acciones: el pensamiento y el carácter] y según estas todos tienen éxito o fracasan), la fábula [trama] es la representación (imitación) de la acción;"
+"Y puesto que es representación de una acción, y es actuada por algunos que actúan, a quienes es necesidad ser de cierta cualidad según el carácter y el pensamiento (pues por medio de estos decimos que las acciones son de cierta cualidad, [y dos son las causas naturales de las acciones: el pensamiento y el carácter] y según estas todos tienen éxito o fracasan), la fábula [trama] es la representación de la acción;"
 
 ### **[4.2]**
 **Texto Griego:**
@@ -186,7 +186,7 @@ Este documento detalla el proceso filológico intermedio entre el texto griego o
 Μέγιστον δὲ τούτων ἐστὶν ἡ τῶν πραγμάτων σύστασις. Ἡ γὰρ τραγῳδία μίμησίς ἐστιν οὐκ ἀνθρώπων ἀλλὰ πράξεων καὶ βίου [καὶ εὐδαιμονία καὶ κακοδαιμονία ἐν πράξει ἐστίν, καὶ τὸ τέλος πρᾶξίς τις ἐστίν, οὐ ποιότης· εἰσὶν δὲ κατὰ μὲν τὰ ἤθη ποιοί τινες, κατὰ δὲ τὰς πράξεις εὐδαίμονες ἢ τοὐναντίον]·
 
 **Traducción Literal (Orden Griego):**
-"Lo más grande / y / de estas [cosas] / es / la / de los / hechos / estructuración. / La / pues / tragedia / imitación / es / no / de hombres / sino / de acciones / y / de vida / [y / felicidad / y / infelicidad / en / acción / es, / y / el / fin / acción / cierta / es, / no / cualidad; / son / y / según / por una parte / los / caracteres / de cierta cualidad / unos, / según / por otra parte / las / acciones / felices / o / lo contrario];"
+"Lo más grande / y / de estas [cosas] / es / la / de los / hechos / estructuración. / La / pues / tragedia / representación / es / no / de hombres / sino / de acciones / y / de vida / [y / felicidad / y / infelicidad / en / acción / es, / y / el / fin / acción / cierta / es, / no / cualidad; / son / y / según / por una parte / los / caracteres / de cierta cualidad / unos, / según / por otra parte / las / acciones / felices / o / lo contrario];"
 
 **Análisis de Reordenamiento y Adiciones:**
 *   **Superlativo:** *Mégiston* (Lo más importante).
@@ -194,7 +194,7 @@ Este documento detalla el proceso filológico intermedio entre el texto griego o
 *   **Cualidad vs Acción:** Aristóteles argumenta que somos "tales" (*poioí*) por el carácter, pero "felices" (*eudaímones*) por la acción.
 
 **Traducción Final:**
-"De estos elementos, el más importante es la estructuración de los hechos. Pues la tragedia no es imitación (representación) de hombres, sino de acciones y de la vida [y la felicidad y la infelicidad están en la acción, y el fin es una acción, no una cualidad; y son de cierta cualidad según los caracteres, pero felices o lo contrario según las acciones];"
+"De estos elementos, el más importante es la estructuración de los hechos. Pues la tragedia no es representación de hombres, sino de acciones y de la vida [y la felicidad y la infelicidad están en la acción, y el fin es una acción, no una cualidad; y son de cierta cualidad según los caracteres, pero felices o lo contrario según las acciones];"
 
 ### **[5.3]**
 **Texto Griego:**
@@ -284,7 +284,7 @@ Este documento detalla el proceso filológico intermedio entre el texto griego o
 Ἀρχὴ μὲν οὖν καὶ οἷον ψυχὴ ὁ μῦθος τῆς τραγῳδίας, δεύτερον δὲ τὰ ἤθη (παραπλήσιον γάρ ἐστιν καὶ ἐπὶ τῆς γραφικῆς· εἰ γάρ τις ἐναλείψειε τοῖς καλλίστοις φαρμάκοις χύδην, οὐκ ἂν ὁμοίως εὐφράνειεν καὶ λευκογραφήσας εἰκόνα)· ἔστιν τε μίμησις πράξεως καὶ διὰ ταύτην μάλιστα τῶν πραττόντων.
 
 **Traducción Literal (Orden Griego):**
-"Principio / por una parte / pues / y / como / alma / la / fábula / de la / tragedia, / segundo / por otra parte / los / caracteres / (parecido / pues / es / también / en / la / pintura: / si / pues / alguien / aplicara / con los / más bellos / colores / confusamente, / no / de igual modo / complacería / que / habiendo dibujado en blanco / imagen); / es / y / imitación / de acción / y / a causa de / esta / sobre todo / de los / actuantes."
+"Principio / por una parte / pues / y / como / alma / la / fábula / de la / tragedia, / segundo / por otra parte / los / caracteres / (parecido / pues / es / también / en / la / pintura: / si / pues / alguien / aplicara / con los / más bellos / colores / confusamente, / no / de igual modo / complacería / que / habiendo dibujado en blanco / imagen); / es / y / representación / de acción / y / a causa de / esta / sobre todo / de los / actuantes."
 
 **Análisis de Reordenamiento y Adiciones:**
 *   **Analogía:** *Oîon psychè* -> "como si fuera el alma".
@@ -292,7 +292,7 @@ Este documento detalla el proceso filológico intermedio entre el texto griego o
 *   **Participio:** *Leukographḗsas* (habiendo dibujado en blanco / bocetado) se contrasta con *pharákois* (colores).
 
 **Traducción Final:**
-"El principio, pues, y como si fuera el alma de la tragedia es la fábula, y en segundo lugar los caracteres (pues es algo parecido también en la pintura: pues si alguien untara con los más hermosos colores confusamente, no complacería de igual modo que habiendo dibujado una imagen en blanco y negro); y es imitación (representación) de una acción y, a causa de esta, sobre todo de los que actúan."
+"El principio, pues, y como si fuera el alma de la tragedia es la fábula, y en segundo lugar los caracteres (pues es algo parecido también en la pintura: pues si alguien untara con los más hermosos colores confusamente, no complacería de igual modo que habiendo dibujado una imagen en blanco y negro); y es representación de una acción y, a causa de esta, sobre todo de los que actúan."
 
 ### **[7.2]**
 **Texto Griego:**

@@ -327,7 +327,7 @@ demos, polis) promueve una visión crítica de estructuras sociales actuales
  
 • 
 Acceso a la poética clásica: El estudio de la Poética de Aristóteles en griego permite analizar términos como 
-mímesis (imitación) o katharsis (catarsis), clave para entender la estética occidental  
+mímesis (representación) o katharsis (catarsis), clave para entender la estética occidental  
 • 
 Interpretación creativa: La traducción de textos literarios griegos (ej. Homero) desarrolla sensibilidad hacia 
 el lenguaje artístico y su relación con la filosofía.  

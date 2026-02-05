@@ -1,3 +1,3 @@
 Jero:
 
-Revisa imitaciones por representaciones cual es mejor
+Usar "representación" como término estable para mímesis.

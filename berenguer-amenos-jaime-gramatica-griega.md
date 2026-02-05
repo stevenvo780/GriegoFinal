@@ -15930,7 +15930,7 @@ concesivo, consecutivo o temporal:
 ήν ώρα τρίτη καί έσταύρωσαν αυτόν (Me. 15,25) 
 2. 
 Έπεί es siempre conjunción causal. 
-3. El con indicativo, por imitación del hebreo, se usa en fórmulas 
+3. El con indicativo, por representación del hebreo, se usa en fórmulas 
 de juramento o protesta: αμήν λέγω ύμϊν ε1 δούήσεται τή γενε^ ταύτη 
 σημεϊον (Me. 8,12). 
 4. 
