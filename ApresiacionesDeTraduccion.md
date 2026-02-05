@@ -2,6 +2,35 @@
 
 Este anexo justifica las decisiones de traducción contrastando cada término clave con las **"Tablas para el estudio del griego antiguo"** provistas por la cátedra. Se demuestra el cumplimiento estricto de la morfología enseñada.
 
+## **0. Decisiones de Traducción (Resumen Operativo)**
+
+Este bloque resume las decisiones que rigen todo el proceso para mantener coherencia y español actual sin perder rigor.
+
+**Equivalencias fijas (criterio de consistencia):**
+- **μίμησις** → **representación**
+- **μῦθος** → **fábula**
+- **πρᾶξις** → **acción**
+- **κάθαρσις** → **catarsis**
+- **εἶδος** → **especies** (cuando se refiere a los medios por partes)
+
+**Reglas de reordenamiento (criterio de inteligibilidad):**
+- **Hipérbaton:** mover adjetivos a su sustantivo y reconstruir la secuencia lógica en español.
+- **Preposición + caso:** respetar el valor funcional (p. ej., **ἐν + dativo** = “en”).
+- **Participios:** convertirlos en proposiciones subordinadas claras sin perder el sentido original.
+
+**Ejemplos operativos (aplicación directa en el texto):**
+- **[2.1]** *ἐν τοῖς μορίοις* → “en sus partes”:  
+  `ἐν` + dativo = “en”, `μορίοις` (dat. pl. neutro de *μόριον*) = “partes”.  
+- **[2.1]** *χωρὶς ἑκάστῳ τῶν εἰδῶν* → “separado por especies en sus partes”:  
+  valor distributivo de *χωρὶς… ἑκάστῳ* y *εἴδος* como “especies” (medios por partes).  
+- **[2.1]** *δι’ ἐλέου καὶ φόβου* → “por medio de la compasión y el temor”:  
+  `δι’` + genitivo = “por medio de”.  
+- **[4.1]** *τῆς μὲν πράξεως ὁ μῦθος ἡ μίμησις* → “la fábula es la representación de la acción”:  
+  se reorganiza el orden para español sin alterar la relación sujeto‑predicado.  
+
+**Criterio general:**
+- Se privilegia una traducción **comprensible y actual**, pero **sin sacrificar precisión morfológica**.
+
 ## **1\. Sustantivos de la Tercera Declinación (Temas en Vocal)**
 
 **Concepto Clave:** La definición de tragedia depende de términos abstractos verbales en *\-sis*.
@@ -9,7 +38,7 @@ Este anexo justifica las decisiones de traducción contrastando cada término cl
 * **Términos:** *Μίμησις* (Mímesis), *Πράξεως* (Práxeōs), *Κάθαρσιν* (Kátharsin), *Σύστασις* (Sýstasis), *Ὄψεως* (Ópseōs), *Λέξις* (Léxis), *Σύνθεσις* (Sýnthesis), *Δύναμις* (Dýnamis).  
 * **Correspondencia con Tablas:** **Diapositiva 21: Tercera declinación (tema en ι υ variable)**.  
 * **Análisis Aplicado:**  
-  * *Μίμησις* (Nom. Sg.): Se traduce como "Representación" (Sujeto). Sigue el modelo de *pólis*. En \[3.1\] se mantiene "representación" y se evita "representación" para preservar la coherencia terminológica.  
+  * *Μίμησις* (Nom. Sg.): Se traduce como "Representación" (Sujeto). Sigue el modelo de *pólis*. En \[3.1\] se mantiene "representación" y se evita "imitación" para preservar la coherencia terminológica.  
   * *Πράξεως* (Gen. Sg.): Sigue la alternancia vocálica (ι en el tema, ε en los casos oblicuos \+ ωσ del genitivo ático). Se traduce obligatoriamente con el genitivo objetivo: "**de** una acción".  
   * *Κάθαρσιν* (Ac. Sg.): La desinencia *\-n* (ni) es propia de estos temas en acusativo. Se traduce como Objeto Directo de *peraínousa*: "catarsis".
   * *Ὄψεως* (Gen. Sg.): Genitivo de relación con *κόσμος* en hipérbaton; por eso se vierte "adorno del espectáculo" (ὄψις como término técnico de "espectáculo").
