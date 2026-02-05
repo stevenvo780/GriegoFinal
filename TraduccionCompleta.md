@@ -34,7 +34,7 @@ Tercero el pensamiento: esto es el ser capaz de decir lo implicado y lo convenie
 
 Es carácter tal cosa que manifiesta la elección, cuál es \[en situaciones donde no es evidente qué se elige o se evita\]; por lo cual no tienen carácter los discursos en los que no hay absolutamente nada que el hablante elija o evite;
 
-y pensamiento \[hay\] en los que demuestran que algo es o no es, o manifiestan algo universalmente.
+y pensamiento \[hay\] en los razonamientos en los que se demuestra que algo es o no es, o se afirma algo universalmente.
 
 Cuarto, de los \[medios\] de palabra, la elocución; digo, como se ha dicho antes, que la elocución es la expresión mediante la denominación, lo cual tiene la misma potencia tanto en verso como en prosa.
 
