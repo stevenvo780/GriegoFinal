@@ -37,17 +37,17 @@ Este documento detalla el proceso filológico intermedio entre el texto griego o
 Ἔστιν οὖν τραγῳδία μίμησις πράξεως σπουδαίας καὶ τελείας μέγεθος ἐχούσης, ἡδυσμένῳ λόγῳ χωρὶς ἑκάστῳ τῶν εἰδῶν ἐν τοῖς μορίοις, δρώντων καὶ οὐ δι ̓ ἀπαγγελίας, δι ̓ ἐλέου καὶ φόβου περαίνουσα τὴν τῶν τοιούτων παθημάτων κάθαρσιν.
 
 **Traducción Literal (Orden Griego):**
-"Es / pues / tragedia / representación / de acción / noble / y / completa / magnitud / que tiene, / con adornado / lenguaje / separado / por / especies / en / sus / partes, / de actuantes / y / no / mediante / relato, / por medio de / compasión / y / temor / realizando / la / de las / tales / afecciones / catarsis."
+"Es / pues / tragedia / representación / de acción / noble / y / completa / magnitud / que tiene, / con adornado / lenguaje / distribuido / por / especies / en / sus / partes, / de actuantes / y / no / mediante / relato, / por medio de / compasión / y / temor / realizando / la / de las / tales / afecciones / catarsis."
 
 **Análisis de Reordenamiento y Adiciones:**
 *   **Participio:** *echousēs* (que tiene) modifica a *práxeōs* (acción).
 *   **Dativo:** *Hēdysménō lógō* es instrumental ("con lenguaje adornado").
-*   **Distributivo:** *Chorìs hekástō...* se ajusta a "separado por especies en sus partes".
+*   **Distributivo:** *Chorìs hekástō...* se ajusta a "distribuido por especies en sus partes".
 *   **Agente:** *Dróntōn* (de los que actúan) se refiere a los imitadores.
 *   **Orden:** *Tēn... kátharsin* encierra los genitivos. Se despliega: "la catarsis de tales pasiones".
 
 **Traducción Final:**
-"La tragedia es, pues, representación de una acción noble y completa, de magnitud determinada; con lenguaje adornado, separado por especies en sus partes; realizada por quienes actúan y no mediante relato; y que, por medio de la compasión y el temor, realiza la catarsis de tales pasiones."
+"La tragedia es, pues, representación de una acción noble y completa, de magnitud determinada; con lenguaje adornado, distribuido por especies en sus partes; realizada por quienes actúan y no mediante relato; y que, por medio de la compasión y el temor, realiza la catarsis de tales pasiones."
 
 ### **[2.2]**
 **Texto Griego:**

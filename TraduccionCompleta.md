@@ -1,6 +1,6 @@
 Hablaremos después acerca de la representación en hexámetros y de la comedia; hablemos ahora de la tragedia, retomando de lo dicho la definición de su esencia.
 
-La tragedia es, pues, representación de una acción noble y completa, de magnitud determinada; con lenguaje adornado, separado por especies en sus partes; realizada por quienes actúan y no mediante relato; y que, por medio de la compasión y el temor, realiza la catarsis de tales pasiones.
+La tragedia es, pues, representación de una acción noble y completa, de magnitud determinada; con lenguaje adornado, distribuido por especies en sus partes; realizada por quienes actúan y no mediante relato; y que, por medio de la compasión y el temor, realiza la catarsis de tales pasiones.
 
 Llamo lenguaje adornado al que tiene ritmo, armonía y canto; y \
 
