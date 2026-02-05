@@ -10,7 +10,7 @@ Hablaremos después acerca de la representación en hexámetros y de la comedia;
 
 Ἔστιν οὖν τραγῳδία μίμησις πράξεως σπουδαίας καὶ τελείας μέγεθος ἐχούσης, ἡδυσμένῳ λόγῳ χωρὶς ἑκάστῳ τῶν εἰδῶν ἐν τοῖς μορίοις, δρώντων καὶ οὐ δι ̓ ἀπαγγελίας, δι ̓ ἐλέου καὶ φόβου περαίνουσα τὴν τῶν τοιούτων παθημάτων κάθαρσιν.
 
-La tragedia es, pues, representación de una acción noble y completa, de magnitud determinada; con lenguaje adornado, distribuido por partes; realizada por quienes actúan y no mediante relato; y que, por medio de la compasión y el temor, realiza la catarsis de tales pasiones.
+La tragedia es, pues, representación de una acción noble y completa, de magnitud determinada; con lenguaje adornado, separado por especies en sus partes; realizada por quienes actúan y no mediante relato; y que, por medio de la compasión y el temor, realiza la catarsis de tales pasiones.
 
 Λέγω δὲ ἡδυσμένον μὲν λόγον τὸν ἔχοντα ῥυθμὸν καὶ ἁρμονίαν [καὶ μέλος], τὸ δὲ χωρὶς τοῖς εἴδεσι τὸ διὰ μέτρων ἔνια μόνον περαίνεσθαι καὶ πάλιν ἕτερα διὰ μέλους.
 

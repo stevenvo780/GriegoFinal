@@ -20,7 +20,7 @@
 
 **\[2.1\]** Ἔστιν οὖν τραγῳδία μίμησις πράξεως σπουδαίας καὶ τελείας μέγεθος ἐχούσης, ἡδυσμένῳ λόγῳ χωρὶς ἑκάστῳ τῶν εἰδῶν ἐν τοῖς μορίοις, δρώντων καὶ οὐ δι ̓ ἀπαγγελίας, δι ̓ ἐλέου καὶ φόβου περαίνουσα τὴν τῶν τοιούτων παθημάτων κάθαρσιν.
 
-"La tragedia es, pues, representación de una acción noble y completa, de magnitud determinada; con lenguaje adornado, distribuido por partes; realizada por quienes actúan y no mediante relato; y que, por medio de la compasión y el temor, realiza la catarsis de tales pasiones."
+"La tragedia es, pues, representación de una acción noble y completa, de magnitud determinada; con lenguaje adornado, separado por especies en sus partes; realizada por quienes actúan y no mediante relato; y que, por medio de la compasión y el temor, realiza la catarsis de tales pasiones."
 
 **\[2.2\]** Λέγω δὲ ἡδυσμένον μὲν λόγον τὸν ἔχοντα ῥυθμὸν καὶ ἁρμονίαν \[καὶ μέλος\], τὸ δὲ χωρὶς τοῖς εἴδεσι τὸ διὰ μέτρων ἔνια μόνον περαίνεσθαι καὶ πάλιν ἕτερα διὰ μέλους.
 
@@ -117,7 +117,7 @@
 
 **Tema:** La definición esencial de la tragedia y su estructura teleológica
 
-El capítulo anuncia que la épica y la comedia se tratarán después y se concentra en fijar qué es la tragedia. La definición que ofrece la traducción es directa: la tragedia es representación de una acción noble y completa, de magnitud determinada; con lenguaje adornado, distribuido por partes; realizada por quienes actúan y no mediante relato; y que, por medio de la compasión y el temor, realiza la catarsis de tales pasiones. Esa definición no queda aislada: organiza todo el capítulo.
+El capítulo anuncia que la épica y la comedia se tratarán después y se concentra en fijar qué es la tragedia. La definición que ofrece la traducción es directa: la tragedia es representación de una acción noble y completa, de magnitud determinada; con lenguaje adornado, separado por especies en sus partes; realizada por quienes actúan y no mediante relato; y que, por medio de la compasión y el temor, realiza la catarsis de tales pasiones. Esa definición no queda aislada: organiza todo el capítulo.
 
 ¿Cómo se construye esa definición a lo largo del texto? Primero se delimita el objeto de la representación (acciones, no personas) y el modo (actuar, no narrar). Luego se aclara el medio: el lenguaje adornado y su distribución en partes. Después se enumeran las seis partes de la tragedia y se muestra que la fábula es la representación misma de la acción. Finalmente se justifica con ejemplos por qué la fábula es el principio y el “alma” de la tragedia. Así, el capítulo no solo define, sino que explica y sostiene cada término de la definición.
 
